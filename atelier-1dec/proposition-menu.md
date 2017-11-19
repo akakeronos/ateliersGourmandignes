@@ -1,4 +1,9 @@
 # Idées pour l'atelier du 1er décembre : 
+
+## dessert aux pommes
+## recette salée avec pommes
+## jus de pommes
+
 ## gâteau citrouille
 ### Ingrédients
 
