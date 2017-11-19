@@ -3,7 +3,8 @@
 ## dessert aux pommes
 ## recette salée avec pommes
 ## jus de pommes
-
+## riz au lait coco courge spaghetti
+https://github.com/bndct-lmbrt/mes-recettes/recettes/riz-coco-courge-spaghetti.md 
 ## gâteau citrouille
 ### Ingrédients
 
