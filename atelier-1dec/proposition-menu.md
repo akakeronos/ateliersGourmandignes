@@ -1,5 +1,10 @@
 # Idées pour l'atelier du 1er décembre : 
-
+"Recettes pour l'automne" (Stéphane Reynaud)
+* Gnocchis de pleurottes
+  * basilic
+  * ciboulette
+  * vin blanc
+  
 ## dessert aux pommes
 * pommes aux épices
 * tarte crue aux pommes
