@@ -1,9 +1,10 @@
 ## Réalisation de 4 ateliers de préparation de repas/dégustation
 
 ### Partenaires
-**Musique de nuit** met à disposition le catering du Rocher de Palmer et offre 30 places pour des adhérents(?) du centre social la Colline de Cenon
-**Le centre social la Colline** constitue un groupe de 6 personnes pour participer à chaque atelier. Il peut également fournir des plats, des couverts et une cuisine équipée de substitution en cas d'indisponibilité de la cuisine du Rocher.
-**La ville de Cenon** donne un badge Festi family et participe avec une animation tricot ""yarn bombing"
+
+* **Musique de nuit** met à disposition le catering du Rocher de Palmer et offre 30 places pour des adhérents(?) du centre social la Colline de Cenon
+* **Le centre social la Colline** constitue un groupe de 6 personnes pour participer à chaque atelier. Il peut également fournir des plats, des couverts et une cuisine équipée de substitution en cas d'indisponibilité de la cuisine du Rocher.
+* **La ville de Cenon** donne un badge Festi family et participe avec une animation tricot ""yarn bombing"
 
 ### Dates
 * 1 décembre
