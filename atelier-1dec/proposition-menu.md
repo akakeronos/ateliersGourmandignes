@@ -1,4 +1,7 @@
 # Idées pour l'atelier du 1er décembre : 
+
+
+=======
 ## Produits amap
 
 **Liste des légumes (provisoire)** 
@@ -98,6 +101,12 @@ Possibilité de compléments avec un autre maraîcher qui est aussi boulanger
   * crême de soja
 * velouté de pleurottes au blé noir
   * farine de blé noir
+
+**"Recettes pour l'automne" (Stéphane Reynaud)**
+* Gnocchis de pleurottes
+  * basilic
+  * ciboulette
+  * vin blanc
   
 ## dessert aux pommes
 * pommes aux épices
