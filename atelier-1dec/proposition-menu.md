@@ -78,7 +78,7 @@ Possibilité de compléments avec un autre maraîcher qui est aussi boulanger
   * millet
   * maîs cuit
 * galette de poids chiches aux légumes
-  * farine de poids chiches
+  * farine de pois chiches
   * poivrons
   * paprika
   * tomates
@@ -117,6 +117,8 @@ Possibilité de compléments avec un autre maraîcher qui est aussi boulanger
 ## riz au lait coco courge spaghetti
 https://github.com/bndct-lmbrt/mes-recettes/recettes/riz-coco-courge-spaghetti.md 
 ## gâteau citrouille
+http://cuisinecrue.skynetblogs.be/archive/2012/11/03/raw-food-sans-gluten-ni-lactose-pumpkin-pie.html
+http://thetastyk.com/2016/10/11/butternut-squash-cake/
 ### Ingrédients
 
 * citrouille : poids : ?
@@ -158,4 +160,8 @@ etc. ?
 ### Ingrédients
 ### Ustensiles
 ### Recette
+
+## Hachis parmentier aux lentilles
+
+
 
