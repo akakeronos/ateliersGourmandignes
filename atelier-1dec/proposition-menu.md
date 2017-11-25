@@ -163,5 +163,28 @@ etc. ?
 
 ## Hachis parmentier aux lentilles
 
-
+## Cake aux légumes et aux noix
+Pour 18 personnes
+### Ingrédients
+* 600g de pulpe d'un jus de légumes
+* 450 g de farine
+* 3 sachets de poudre à lever
+* 6 oeufs
+* 24 cl d'huile d'olive
+* 36 cl de lait
+* 150 g de parmesan
+* 150 g de cernaux de noix concassés
+### Ustensiles
+### coût
+* four
+* cul de poule
+* moule à cake
+### Recette
+1. Préchauffer le four à 180°c
+2. mélanger dans un saladier, la pulpe, la farine et la poudre à lever
+3. Incorporez petit à petit les oeufs, l'huile d'olive, et le lait, puis le parmesn et les noix
+4. mélanger jusqu'à obtenir une pâte homogène
+5. Beurrez et fariner le moule à cake et verser la pâte
+6. enfournez pour 40 min
+7. laissez tiédir avant de démouler
 
