@@ -21,7 +21,7 @@
 * gingembre 5,32/kg x 500g = 2.66
 * riz à sushis 3 x 2,21 = 6,63
 * feuilles de nori (essais possibles de maki avec blettes) 2 x 6,28 = 12,56
-* sésame 1,90
+* vinaigre de riz 6,00
 * lentilles, 1,2kg x 3,00  = 3,60
 * échalotes, 1,52
 * citronnelle, 2 x 1,00 = 2,00
@@ -35,7 +35,7 @@
 
 estimation suivant mes dernières courses la cagette Montpellier et Marcel & fils bio à Lattes
 
-* total = 53,56
+* total = 57,66
 
 =======
 ## Produits amap
