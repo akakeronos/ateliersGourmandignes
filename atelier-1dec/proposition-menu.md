@@ -2,29 +2,40 @@
 
 ## Menu
 * les makis aux légumes lacto-fermentés avec radis et autres légumes que l'on peut manger crus, 
-* un jus de pomme céleri gingembre, 
-* un hachis parmentier à la courge butternut et lentilles et les makis aux légumes lacto-fermentés avec radis et autres légumes que l'on peut manger crus, un jus de pomme céleri gingembre, un hachis parmentier à la courge butternut et lentilles et une tarte crue à la pomme. En produits ajoutés je pense donc gingembre, riz à sushis, feuilles de nori (essais possibles de maki avec blettes) lentilles, échalotes, citronnelle, graines de lin ou de chia, flocons d'avoine ou de sarrasin
+* un jus de pomme céleri gingembre carottes, 
+* un hachis parmentier à la courge butternut et lentilles 
 * une tarte crue à la pomme.  
 
 ### Produits amap
-* pommes
-* céleri
-* courge butternut
-* radis
-* carottes
-* betteraves
-* fenouil
+* pommes 2kg + jus
+* céleri 2/3 bottes
+* courge butternut 4kg
+* pommes de terre 2kg
+* radis 3/4 gros roses
+* carottes 8 + jus
+* betteraves 3/4 suivant la taille (couleurs)
+* fenouil 1 ou 2 ""
 * pleurottes ?
-* blettes
+* blettes 2 bottes
 ### Produits hors amap
-* gingembre, 
-* riz à sushis, 
-* feuilles de nori (essais possibles de maki avec blettes) 
-* lentilles, 
-* échalotes, 
-* citronnelle, 
-* graines de lin ou de chia, 
-* flocons d'avoine ou de sarrasin
+* gingembre 5,32/kg x 500g = 2.66
+* riz à sushis 3 x 2,21 = 6,63
+* feuilles de nori (essais possibles de maki avec blettes) 2 x 6,28 = 12,56
+* sésame 1,90
+* lentilles, 1,2kg x 3,00  = 3,60
+* échalotes, 1,52
+* citronnelle, 2 x 1,00 = 2,00
+* graines de lin ou de chia, 2x 1,92 = 3,84
+* flocons d'avoine ou de sarrasin 2 x 2,31 = 4,62
+* pâte de dattes 3,04
+* purée d'amandes 9,00
+* lait de soja 15/20cl 0,99
+* 1 gousse d'ail 0,20
+* coriandre 1,00
+
+estimation suivant mes dernières courses la cagette Montpellier et Marcel & fils bio à Lattes
+
+* total = 53,56
 
 =======
 ## Produits amap
