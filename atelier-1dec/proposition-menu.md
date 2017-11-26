@@ -1,10 +1,35 @@
 # Idées pour l'atelier du 1er décembre : 
 
+## Menu
+* les makis aux légumes lacto-fermentés avec radis et autres légumes que l'on peut manger crus, 
+* un jus de pomme céleri gingembre, 
+* un hachis parmentier à la courge butternut et lentilles et les makis aux légumes lacto-fermentés avec radis et autres légumes que l'on peut manger crus, un jus de pomme céleri gingembre, un hachis parmentier à la courge butternut et lentilles et une tarte crue à la pomme. En produits ajoutés je pense donc gingembre, riz à sushis, feuilles de nori (essais possibles de maki avec blettes) lentilles, échalotes, citronnelle, graines de lin ou de chia, flocons d'avoine ou de sarrasin
+* une tarte crue à la pomme.  
+
+### Produits amap
+* pommes
+* céleri
+* courge butternut
+* radis
+* carottes
+* betteraves
+* fenouil
+* pleurottes ?
+* blettes
+### Produits hors amap
+* gingembre, 
+* riz à sushis, 
+* feuilles de nori (essais possibles de maki avec blettes) 
+* lentilles, 
+* échalotes, 
+* citronnelle, 
+* graines de lin ou de chia, 
+* flocons d'avoine ou de sarrasin
 
 =======
 ## Produits amap
 
-**Liste des légumes (provisoire)** 
+**Liste des légumes** 
 * blettes
 * courge spaghetti
 * pommes de terre
