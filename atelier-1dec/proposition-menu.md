@@ -17,6 +17,9 @@
 * fenouil 1 ou 2 ""
 * pleurottes ?
 * blettes 2 bottes
+
+coût légumes : 39 €
+
 ### Produits hors amap
 * gingembre 5,32/kg x 500g = 2.66
 * riz à sushis 3 x 2,21 = 6,63
@@ -82,7 +85,7 @@ Possibilité de compléments avec un autre maraîcher qui est aussi boulanger
 * "Bar à salade"
 * Salade vitaminée d'hiver 166
 
-** produits à acheter**
+**produits à acheter**
 * échalote
 * carottes
 * brocoli
