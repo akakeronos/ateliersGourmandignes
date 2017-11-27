@@ -1,6 +1,6 @@
 # Idées pour l'atelier du 8 décembre : 
 ## Menu
-*soupe de citrouille et butternut au lait de coco ou sans ?, 
+* soupe de citrouille et butternut au lait de coco ou sans ?, 
 * sandwich falafel avec : 
  * falafels de légumes, 
  * salade de légumes crus de saison en crus et pickles, 
