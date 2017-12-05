@@ -8,6 +8,15 @@
  * dessert riz au lait et courge spaghetti. 
 
 ## Produits amap
+* fromage blanc 2
+* betterave 1 
+* radis 2
+* carottes 6
+* poireaux 2
+* blettes 1 botte
+* courge butternut 1 (1kg)
+* courge potiron 800g
+* courge spaghetti 1
 
 ### Produits ajoutés : 
 * lait de coco, 500ml
