@@ -1,22 +1,13 @@
 # Idées pour l'atelier du 8 décembre : 
 ## Menu
-* soupe de citrouille et butternut au lait de coco ou sans ?, 
+* soupe de citrouille et butternut au lait de coco, 
 * sandwich falafel avec : 
  * falafels de légumes, 
  * salade de légumes crus de saison en crus et pickles, 
- * sauce fromage blanc aux herbes (menthe, coriandre, persil, pas des herbes bizarres :wink: ) 
+ * sauce fromage blanc aux herbes (menthe, coriandre, persil) 
  * dessert riz au lait et courge spaghetti. 
 
 ## Produits amap
-* fromage blanc 2
-* betterave 1 
-* radis 2
-* carottes 6
-* poireaux 2
-* blettes 1 botte
-* courge butternut 1 (1kg)
-* courge potiron 800g
-* courge spaghetti 1
 
 ### Produits ajoutés : 
 * lait de coco, 500ml
