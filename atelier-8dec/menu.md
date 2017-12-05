@@ -8,28 +8,21 @@
  * dessert riz au lait et courge spaghetti. 
 
 ## Produits amap
-* fromage blanc 2*430 ml
-* betterave 1pc
-* radis 2 radis roses
-* carottes 500g
-* poireaux 300 g
-* blettes 200g
-* courge butternut 2kg
-* courge spaghetti 2 kg
 
 ### Produits ajoutés : 
-* lait de coco, 
-* pois chiches, 
-* citron, 
-* coriandre, 
-* persil, 
-* flocon d'avoine, 
-* cumin, 
-* Tahin de sésame, 
-* menthe, 
-* riz, 
-* lait, 
-* miel
+* lait de coco, 500ml
+* pois chiches, 300g
+* citron, 2
+* coriandre, 1
+* persil, 1
+* flocon d'avoine, 200
+* cumin, 2cc
+* Tahin de sésame, 3CS
+* menthe, 1
+* riz, 300g
+* lait, 330ml
+* miel 3 CS
+* vinaigre de riz 1 btl
 
 # recettes
 ## Jus de fruits et légumes d'automne
