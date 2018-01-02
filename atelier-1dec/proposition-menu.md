@@ -1,5 +1,8 @@
 # Idées pour l'atelier du 1er décembre : 
 
+## dessert aux pommes
+## recette salée avec pommes
+=======
 ## Menu
 * les makis aux légumes lacto-fermentés avec radis et autres légumes que l'on peut manger crus, 
 * un jus de pomme céleri gingembre carottes, 
@@ -152,12 +155,16 @@ Possibilité de compléments avec un autre maraîcher qui est aussi boulanger
 * tarte crue aux pommes
 ## recette salée avec pommes
 * céleri-rave/pommes
+
 ## jus de pommes
 ## riz au lait coco courge spaghetti
 https://github.com/bndct-lmbrt/mes-recettes/recettes/riz-coco-courge-spaghetti.md 
 ## gâteau citrouille
+
+=======
 http://cuisinecrue.skynetblogs.be/archive/2012/11/03/raw-food-sans-gluten-ni-lactose-pumpkin-pie.html
 http://thetastyk.com/2016/10/11/butternut-squash-cake/
+
 ### Ingrédients
 
 * citrouille : poids : ?
@@ -188,6 +195,7 @@ etc. ?
 
 ## Soupe pommes de terre, blette, courge butternut
 
+=======
 * burrito de blettes 
 
 ### Ingrédients
@@ -200,6 +208,7 @@ etc. ?
 ### Ustensiles
 ### Recette
 
+=======
 ## Hachis parmentier aux lentilles
 
 ## Cake aux légumes et aux noix
