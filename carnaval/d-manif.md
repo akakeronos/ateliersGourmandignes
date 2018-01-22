@@ -1,5 +1,4 @@
-# Dossier de manifestation stand Béné-dignes
-
+# Dossier de manifestation stand Délices augmentés
 Dans le cadre du carnaval des 2 rives du 4 mars 2019, Bénédicte Lambert et l'association Gourmandignes proposent un stand artistico-gourmand en lien avec le thème du carnaval dans le but de restaurer et régaler les particpants.
 Un stand sera mis en place côté Nord de la cathédrale Pey Berland pour proposer de la nourriture et des boissons à partir de produits issus de producteurs locaux en agriculture biologique.
 
@@ -70,87 +69,45 @@ Association Gourmandignes, AMAP https://www.gourmandignes.org
 	* crêpes augmentées à la confiture déglantine, au caramel beurre salé, à la pâte à tartiner bio
 	* pommes d'amour revisitée
  
-## matériel :
+Matériel (fourni par nous)
 
-    * 2 marmites
-    * 5 percolateurs
-    * 36 bouteilles en verre pour les jus
-    * les écocups (à commander voir le nombre)
-    * bouteilles en verre pour les jus (quel nombre ?)
-    * tireuse à limonade
-    	* 4 fûts de 30l soit 480 verres
-    * caisse
-    * sucriers (verre ou inox) sucre de canne ou sucre de coco ?
-    * pots en verre pour confiture, caramel, pâte à tartiner
-    * cuillères en bambou
-    * serviettes en papier (avec logo carnaval?)
+2 marmites
+5 percolateurs
+2 bouilloires électriques
+2 extracteur à jus
+36 bouteilles en verre pour les jus
+les écocups (à commander voir le nombre)
+1 tireuse à limonade
+4 fûts de 30l soit 480 verres
+caisse
+3 sucriers (verre ou inox) 
+pots en verre pour confiture, caramel, pâte à tartiner
+100 cuillères en bambou
+serviettes en papier 
 
-## commandes denrées
-	* 15l jus fantaisie Gourmandignes
-		> 1 bouteille de 1 cl : €
-  		* 5kg de carottes: €
-  		* 5kg de pommes: €
-  		* 2,5 Kg de betterave: €
-  		* 2,5 Kg de citron : €
-  		* 700 g de radis noir:  €
-  		* 700 g de celeri rave: €
-  		* 200g gingembre
-  		* 200g menthe
+Commandes denrées
+    * 15l jus fantaisie Gourmandignes
+        > 1 bouteille de 1 cl : €
+          * 5kg de carottes: €
+          * 5kg de pommes: €
+          * 2,5 Kg de betterave: €
+          * 2,5 Kg de citron : €
+          * 700 g de radis noir:  €
+          * 700 g de celeri rave: €
+          * 200g gingembre
+          * 200g menthe
 
-	* 15l jus de pommes chaud aux épices 60 verres de 20 cl
-		> 1 bouteille de 1 l : 5 €
-  		- 20 kg de pommes :  €
-  		- 3 kg de citron: €
-  		- 20 bâtons de cannelle €
-  		- 15 clous de girofle € 
-  	* 30l de lait d'avoine (ou autre lait végétal)
-	* 32 carrés de chocolat pâtissier
-	* 8 cuillères à café de cannelle en poudre
-	* 6 cuillère à café de gingembre en poudre
-	* 4 fûts de limonade, 1 tireuse double, 1 bonbonne gaz
-
-## dispositif scénographie
-
-
-
-
-
-
-## boissons chaudes
-
-
-
-
-
-dessert typique du carnaval
-	merveilles
-	buffet conférence de presse
-	crêpes
-	pâte à gauffres
-	pomme d'amour
-
-	2,5 € la crêpe
-	10 000 e / 
-	recette des bugnes
-
-	cahier des charges
-	combien de personnes ? capacité d'accueil
-
-	dossier de manifestation 10j 4x4 6x6
-
-	présentation 
-
-	1 représentant de chaque participant 
-
-	présentation de tous les projets
-	+ journalistes
-
-	11h du matin + buffet
-
-	45-50 personnes
-	preview
-
-	1 dessert par personne
+    * 15l jus de pommes chaud aux épices 60 verres de 20 cl
+        > 1 bouteille de 1 l : 5 €
+          - 20 kg de pommes :  €
+          - 3 kg de citron: €
+          - 20 bâtons de cannelle €
+          - 15 clous de girofle €
+      * 30l de lait d'avoine (ou autre lait végétal)
+    * 32 carrés de chocolat pâtissier
+    * 8 cuillères à café de cannelle en poudre
+    * 6 cuillère à café de gingembre en poudre
+    * 4 fûts de limonade, 1 tireuse double, 1 bonbonne gaz
 
 	guillaumit@gmail.com
 
