@@ -45,4 +45,8 @@ A partir des idées proposées lors des ateliers précédents, les participant.e
 2. préparations culinaires (120 min) : préparation des recettes à partir des fiches fournies aux participant.es
 3. dégustation et propositions d'améliorations (35 min) : dégustation des prototypes de recettes conçues par les participant.es et échanges en vue de proposer d'éventuelles améliorations
 
- 
+## partenaires pressentis
+L'association Gourmandignes et Bénédicet Lambert souhaitent s'associer à diverses structures locales pour proposer sur leur territoire des ateliers en lien avec l'objet du projet.
+* Floirac : école Pierre et Marie Curie, Collège Nelson Mandela, centre social du Bas Floirac, ville de Floirac, RPA...
+* Cenon : association Le déclencheur souple, centre social la Colline, Musique de Nuit, ville de Cenon
+* Lormont : centre social Didée, lycée Elie Faure, INFRA, ville de Lormont
