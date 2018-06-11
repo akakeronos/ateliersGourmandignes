@@ -69,7 +69,7 @@ L'association Gourmandignes et Bénédicte Lambert souhaitent s'associer à dive
 * Lormont : centre social Didée, lycée Elie Faure, INFRA, ville de Lormont
 * en association avec Les Petits Débrouillards, Jeunes Sciences Bordeaux, le bruit du frigo...
 
-Des ateliers et une parade spécifique à la ville de Floirac sont prévus en vue d'une continuité du carnaval des 2 rives. La réutilisation du char et de certains éléments de la parade permettront de créer un contexte festif et grandiose.
+Des ateliers et une parade spécifique à la ville de Floirac sont prévus en vue d'une continuité du carnaval des 2 rives. La réutilisation du char et de certains éléments de la parade permettront de créer un contexte festif adapté à la thématique choisie par le carnaval de FLoirac.
 
 ## budget prévisionnel
 
