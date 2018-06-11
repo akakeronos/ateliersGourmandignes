@@ -4,6 +4,10 @@ En association avec la direction artisitique du carnaval des 2 rives et sa thém
 
 L'intention est de créer des liens intergénérationnels avec différents acteurs potentiels : les enfants, les adolescents, les personnes âgées qui se rencontrent peu habituellement sur des projets d'envergure. À travers les outils technologiques, pédagogiques et créatifs, la co-construction de cet évènement festif va favoriser la transmission, le partage et la valorisation des savoir-faire.
 
+Le point d'orgue de ce projet consistera à accompagner la déambulation du char lors des parades du carnaval des 2 rives et du carnaval de Floirac. A cette occasion les participants seront invités à interagir avec les spectatrices et les spectateurs à l'aide de leur 5 sens. Odoramat, projections, distributions permettront d'augmenter la parade d'une proposition gustative.
+
+[char d'oranges](./char_orange.png)
+
 ## Propositions d'ateliers
 
 ### ateliers de design thinking ou tempête de cerveaux : 16 personnes
