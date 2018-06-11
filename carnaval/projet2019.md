@@ -8,6 +8,8 @@ En 2018, nous avons participé au carnaval des 2 rives en proposant un stand de 
 
 Pour l'édition 2019 nous proposons de réaliser un char qui participera à la parade du carnaval. Ce char sera créé et décoré par les partenaires avec qui les Gourmandignes s'associeront. Il servira à augmenter le palais et l'odorat des participant.es de la parade et du village carnaval. Pour le préparer nous proposons aux centres sociaux, d'animation, aux écoles et aux maisons de retraites de participer à sa conception. Entre octobre et février, plusieurs ateliers seront proposés afin d'imaginer les dispositifs de distribution, les éléments de décoration et les préparations culinaires qui seront confectionnées puis distribuées au cours de la parade.
 
+L'intention est de créer des liens intergénérationnels avec différents acteurs potentiels : les enfants, les adolescents, les personnes âgées qui se rencontrent peu habituellement sur des projets d'envergure. À travers les outils technologiques, pédagogiques et créatifs, la co-construction de cet évènement festif va favoriser la transmission, le partage et la valorisation des savoir-faire.
+
 ## Propositions d'ateliers
 
 ### ateliers de design thinking ou tempête de cerveaux : 16 personnes
@@ -65,8 +67,16 @@ L'association Gourmandignes et Bénédicte Lambert souhaitent s'associer à dive
 * Floirac : école Pierre et Marie Curie, Collège Nelson Mandela, centre social du Bas Floirac, ville de Floirac, RPA...
 * Cenon : association Le déclencheur souple, centre social la Colline, Musique de Nuit, ville de Cenon
 * Lormont : centre social Didée, lycée Elie Faure, INFRA, ville de Lormont
-[* en association avec Les Petits Débrouillards, Jeunes Sciences Bordeaux, le bruit du frigo (?) ]
+* en association avec Les Petits Débrouillards, Jeunes Sciences Bordeaux, le bruit du frigo...
+
+Des ateliers et une parade spécifique à la ville de Floirac sont prévus en vue d'une continuité du carnaval des 2 rives. La réutilisation du char et de certains éléments de la parade permettront de créer un contexte festif et grandiose.
 
 ## budget prévisionnel
 
-20000€ :)
+* prix ateliers : 9000€
+
+* prix matières premières (construction, création, décors, nourriture) : 4500€
+* prix des espaces de création spécifiques, intervenants spécifiques : 3500€
+* séjour immersif (lieu, intervenant, repas) : 6000€
+
+total : 23000€
