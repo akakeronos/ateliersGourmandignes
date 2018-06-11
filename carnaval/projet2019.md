@@ -6,7 +6,7 @@ L'intention est de créer des liens intergénérationnels avec différents acteu
 
 Le point d'orgue de ce projet consistera à accompagner la déambulation du char lors des parades du carnaval des 2 rives et du carnaval de Floirac. A cette occasion les participants seront invités à interagir avec les spectatrices et les spectateurs à l'aide de leur 5 sens. Odoramat, projections, distributions permettront d'augmenter la parade d'une proposition gustative.
 
-[char d'oranges](./char_orange.png)
+![char d'oranges](./char_orange.png)
 
 ## Propositions d'ateliers
 
@@ -96,8 +96,9 @@ Des ateliers et une parade spécifique à la ville de Floirac sont prévus en vu
 ## budget prévisionnel
 
 **ateliers** :
-6 jours de préparation pour les séquences d'animation, l'achat du matériel et la coordination des partenaires : 3800 €
-12 ateliers
+6 jours de préparation pour les séquences d'animation, l'achat du matériel et la coordination des partenaires : 2 800 €
+
+12 ateliers : 7 200 €
 
 600 € par atelier pour 2 intervenant.es pour une journée
 Pour un groupe classe de 25 élèves on peut imaginer un atelier d'une journée en 4 séquences de 80 min (4 groupes de 8):
