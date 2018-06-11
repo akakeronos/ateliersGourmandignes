@@ -1,12 +1,6 @@
-# Proposition Gourmandignes
+# Déambulation gastronomique
 
 En association avec la direction artisitique du carnaval des 2 rives et sa thématique, l'association Gourmandignes et Bénédicte Lambert, créatice culinaire s'unissent pour proposer un projet de char consacré à l'alimentation augmentée.
-
-Basée à Cenon, l'association Gourmandignes s'emploie depuis 2010 à mettre en relation consommateurs et producteurs locaux pour favoriser l'agriculture biologique et contribuer son accessibilité à tous les publics. Elle propose aux 70 familles adhérentes, 15 productions issues d'agricult.rice.eurs girondins chaque semaine sur le lieu de distribution situé à proximité de la mairie de Cenon. Elle propose également des ateliers culinaires en partenariat avec des centres sociaux de la rive droite animée par Bénédicte Lambert ou d'autres professionnels de la cuisine.
-
-En 2018, nous avons participé au carnaval des 2 rives en proposant un stand de nourritures et de boissons sucrées aux participants du carnaval. Nous intervenons également régulièrement lors d'événements festifs sur Cenon, Lormont et Floirac.
-
-Pour l'édition 2019 nous proposons de réaliser un char qui participera à la parade du carnaval. Ce char sera créé et décoré par les partenaires avec qui les Gourmandignes s'associeront. Il servira à augmenter le palais et l'odorat des participant.es de la parade et du village carnaval. Pour le préparer nous proposons aux centres sociaux, d'animation, aux écoles et aux maisons de retraites de participer à sa conception. Entre octobre et février, plusieurs ateliers seront proposés afin d'imaginer les dispositifs de distribution, les éléments de décoration et les préparations culinaires qui seront confectionnées puis distribuées au cours de la parade.
 
 L'intention est de créer des liens intergénérationnels avec différents acteurs potentiels : les enfants, les adolescents, les personnes âgées qui se rencontrent peu habituellement sur des projets d'envergure. À travers les outils technologiques, pédagogiques et créatifs, la co-construction de cet évènement festif va favoriser la transmission, le partage et la valorisation des savoir-faire.
 
@@ -62,16 +56,51 @@ Pendant cet atelier d'une journée, à partir des idées proposées lors des ate
 2. finalisation des préparations culinaires: création des outils pour la fabrication ou la décoration des créations culinaires
 3. répétitions et tests du char et des différents systèmes mis en place
 
+## Qui sommes-nous ?
+AMAP Gourmandignes : basée à Cenon, l'association Gourmandignes s'emploie depuis 2010 à mettre en relation consommateurs et producteurs locaux pour favoriser l'agriculture biologique et contribuer son accessibilité à tous les publics. Elle propose aux 70 familles adhérentes, 15 productions issues d'agricult.rice.eurs girondins chaque semaine sur le lieu de distribution situé à proximité de la mairie de Cenon. Elle propose également des ateliers culinaires en partenariat avec des centres sociaux de la rive droite animée par des professionnels de la cuisine.
+
+En savoir plus : https://gourmandignes.org
+
+Bénédicte, créatrice culinaire : je réalise des prestations autour de la gastronomie ; de la création de recettes, des ateliers de découverte ou de design, du stylisme et de l'événementiel.
+
+Scénographe, j'ai travaillé une dizaine d'années comme comédienne et marionnettiste. J'ai obtenu mon CAP de pâtisserie en candidat libre et je suis partie l'éprouver au Japon dans un restaurant franco-japonais.
+
+J'aime jouer avec la nourriture, je mets en scène les aliments pour la photo ou pour l'évènementiel. J'invente de nouvelles associations et de nouvelles façons de voir ce que l'on mange. Je suis une aventurière qui cherche de nouvelles sensations gustatives, de nouvelles histoires, de nouvelles émotions à créer ensemble.
+
+En savoir plus : http://www.benedictelambert.com/
+
+## Précédentes collaborations
+
+En 2018, nous avons participé au carnaval des 2 rives en proposant un stand de nourritures et de boissons sucrées aux participants du carnaval.
+Organisé en partenariat avec le centre social du Grand parc, nous avons imaginé un goûter sucré constitué uniquement à partir de produits issus de l'agriculture locale biologique. Ce stand de vente de nourriture et boissons était augmenté par une scénographie invitant à la découverte de quelques secrets alimentaires.
+
+Nous intervenons également régulièrement lors d'événements festifs sur Cenon pour des fêtes de quartier ou lors d'évènements culturels (Le Tube, Festi Family, Guinguette de Testaud, gratiferia) en associant les participant.es à l'élaboration des préparations de recettes.
+
+Depuis 18 mois, nous organisons un cours mensuel de cuisine collaborative en partenariat avec le centre social Didée à Lormont où nous invitons les participant.es à (re-)découvrir des produits simples et sains, principalement issus des producteurs qui coopérent avec l'AMAP.
+
+dépôt de recettes : https://akakeronos.github.io/recettes/
+
 ## partenaires pressentis
 L'association Gourmandignes et Bénédicte Lambert souhaitent s'associer à diverses structures locales pour proposer sur leur territoire des ateliers en lien avec l'objet du projet.
 * Floirac : école Pierre et Marie Curie, Collège Nelson Mandela, centre social du Bas Floirac, ville de Floirac, RPA...
 * Cenon : association Le déclencheur souple, centre social la Colline, Musique de Nuit, ville de Cenon
 * Lormont : centre social Didée, lycée Elie Faure, INFRA, ville de Lormont
-* en association avec Les Petits Débrouillards, Jeunes Sciences Bordeaux, le bruit du frigo...
+* en association avec Les Petits Débrouillards, Jeunes Sciences Bordeaux, le Bruit du Frigo...
 
 Des ateliers et une parade spécifique à la ville de Floirac sont prévus en vue d'une continuité du carnaval des 2 rives. La réutilisation du char et de certains éléments de la parade permettront de créer un contexte festif adapté à la thématique choisie par le carnaval de FLoirac.
 
 ## budget prévisionnel
+
+**ateliers** :
+6 jours de préparation pour les séquences d'animation, l'achat du matériel et la coordination des partenaires : 3800 €
+12 ateliers
+
+600 € par atelier pour 2 intervenant.es pour une journée
+Pour un groupe classe de 25 élèves on peut imaginer un atelier d'une journée en 4 séquences de 80 min (4 groupes de 8):
+* design : imaginer des idées de moules, de formes, d'emballage ou de distributeur. Réalisation d'une maquette du projet
+* goût : découverte de goûts sur la thématique du sucré. Présentation d'une séquence vidéo. Echange sur les pratiques d'alimentation
+* cuisine : réalisation d'une recette individuellement ou par groupe de 3
+* conception ou réalisation de maquette pour le char
 
 * prix ateliers : 9000€
 
