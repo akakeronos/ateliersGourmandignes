@@ -8,6 +8,8 @@ En 2018, nous avons participé au carnaval des 2 rives en proposant un stand de 
 
 Pour l'édition 2019 nous proposons de réaliser un char qui participera à la parade du carnaval. Ce char sera créé et décoré par les partenaires avec qui les Gourmandignes s'associeront. Il servira à augmenter le palais et l'odorat des participant.es de la parade et du village carnaval. Pour le préparer nous proposons aux centres sociaux, d'animation, aux écoles et aux maisons de retraites de participer à sa conception. Entre octobre et février, plusieurs ateliers seront proposés afin d'imaginer les dispositifs de distribution, les éléments de décoration et les préparations culinaires qui seront confectionnées puis distribuées au cours de la parade.
 
+L'intention est de créer des liens intergénérationnels avec différents acteurs potentiels : les enfants, les adolescents, les personnes âgées qui se rencontrent peu habituellement sur des projets d'envergure. À travers les outils technologiques, pédagogiques et créatifs, la co-construction de cet évènement festif va favoriser la transmission, le partage et la valorisation des savoir-faire.
+
 ## Propositions d'ateliers
 
 ### ateliers de design thinking ou tempête de cerveaux : 16 personnes
@@ -17,11 +19,8 @@ Pendant cet atelier de 3 heures, les participant.es sont invitées à imaginer d
 1. accueil des participant.es (20 min): des aliments sont proposés aux participant.es. Chacun.e en choisit un et le fait goûter les yeux bandés à quelqu'un. (icebreaker)
 2. présentation du projet (15 min) : idées de dispositifs de distributions, visuels de l'édition 2018 du carnaval, présentation de l'idée de char alimentaire.
 3. atelier de brainstorming (40 min) : identifier les besoins et générer autant d'idées que possible sans les juger (imaginer des choses réalistes ou folles)
-3. atelier de conception (45 min) : par équipe de 4, chaque groupe imagine à l'aide de feuilles, cartons, crayons, ciseaux, colle, matériaux divers, des dispositifs permettant la distribution de nourriture ou la diffusion d'odeurs alimentaires. L'idée est d'augmenter les sensations du public en jouant sur les odeurs, les saveurs ou l'effet de surprise.
-4. restitution (40 min) : chaque groupe dispose de 10 min pour présenter aux autres groupes son projet en expliquant les étapes nécessaires à la conception et les besoins matériels pour la restitution
-*/[5. consolidation (40 min): Les 2 projets les plus plébiscités sont consolidés par les participant.es afin d'établir une fiche technique détaillée.
-* Recette avec les temps de fabrication, les coûts associés
-* fiche technique de fabrication et modélisation 2D/3D pour les dispositifs de présentation ou de diffusion]/*
+4. atelier de conception (45 min) : par équipe de 4, chaque groupe imagine à l'aide de feuilles, cartons, crayons, ciseaux, colle, matériaux divers, des dispositifs permettant la distribution de nourriture ou la diffusion d'odeurs alimentaires. L'idée est d'augmenter les sensations du public en jouant sur les odeurs, les saveurs ou l'effet de surprise.
+5. restitution (40 min) : chaque groupe dispose de 10 min pour présenter aux autres groupes son projet en expliquant les étapes nécessaires à la conception et les besoins matériels pour la restitution
 6. goûter partagé et rétrospective : dégustation d'un goûter et échanges sur l'atelier sous la forme d'une rétrospective.
 
 ### atelier pédagogique : alimentation augmentée : 16 personnes
@@ -62,11 +61,17 @@ L'association Gourmandignes et Bénédicte Lambert souhaitent s'associer à dive
 * Floirac : école Pierre et Marie Curie, Collège Nelson Mandela, centre social du Bas Floirac, ville de Floirac, RPA...
 * Cenon : association Le déclencheur souple, centre social la Colline, Musique de Nuit, ville de Cenon
 * Lormont : centre social Didée, lycée Elie Faure, INFRA, ville de Lormont
-[* en association avec Les Petits Débrouillards, Jeunes Sciences Bordeaux, le bruit du frigo (?) ]
+* en association avec Les Petits Débrouillards, Jeunes Sciences Bordeaux, le bruit du frigo...
+
+Des ateliers et une parade spécifique à la ville de Floirac sont prévus en vue d'une continuité du carnaval des 2 rives. La réutilisation du char et de certains éléments de la parade permettront de créer un contexte festif et grandiose.
 
 ## budget prévisionnel
 
-20000€ :)
+prix ateliers : 9000€
+prix matières premières (construction, création, décors, nourriture) : 4500€
+prix des espaces de création spécifiques, intervenants spécifiques : 3500€
+séjour immersif (lieu, intervenant, repas) : 6000€
+total : 23000€
 
 
 
