@@ -19,9 +19,12 @@ Pendant cet atelier de 3 heures, les participant.es sont invitées à imaginer d
 3. atelier de brainstorming (40 min) : identifier les besoins et générer autant d'idées que possible sans les juger (imaginer des choses réalistes ou folles)
 3. atelier de conception (45 min) : par équipe de 4, chaque groupe imagine à l'aide de feuilles, cartons, crayons, ciseaux, colle, matériaux divers, des dispositifs permettant la distribution de nourriture ou la diffusion d'odeurs alimentaires. L'idée est d'augmenter les sensations du public en jouant sur les odeurs, les saveurs ou l'effet de surprise.
 4. restitution (40 min) : chaque groupe dispose de 10 min pour présenter aux autres groupes son projet en expliquant les étapes nécessaires à la conception et les besoins matériels pour la restitution
-*/[5. consolidation (40 min): Les 2 projets les plus plébiscités sont consolidés par les participant.es afin d'établir une fiche technique détaillée.
+<!--
+[5. consolidation (40 min): Les 2 projets les plus plébiscités sont consolidés par les participant.es afin d'établir une fiche technique détaillée.
 * Recette avec les temps de fabrication, les coûts associés
-* fiche technique de fabrication et modélisation 2D/3D pour les dispositifs de présentation ou de diffusion]/*
+* fiche technique de fabrication et modélisation 2D/3D pour les dispositifs de présentation ou de diffusion]
+
+-->
 6. goûter partagé et rétrospective : dégustation d'un goûter et échanges sur l'atelier sous la forme d'une rétrospective.
 
 ### atelier pédagogique : alimentation augmentée : 16 personnes
@@ -45,13 +48,13 @@ Pendant cet atelier d'une journée, à partir des idées proposées lors des ate
 #### déroulé
 1. accueil des participant.es (25 min): des aliments sont proposés aux participant.es. Chacun.e en choisit un et le fait goûter les yeux bandés à quelqu'un.
 2. expérimentations (3x40 min) : créations à partir des éléments mis à disposition : ingrédients, techniques en lien avec les choix des ateliers précédents (gélification, cuisine moléculaire, cuisson, déshydratation)
-3. préparations culinaires (3x40 min) : préparation des recettes à partir des expérimentations 
+3. préparations culinaires (3x40 min) : préparation des recettes à partir des expérimentations
 4. dégustation et propositions d'améliorations (35 min) : dégustation des prototypes de recettes conçus par les participant.es et échanges en vue de proposer d'éventuelles améliorations
-5. test client (60 min) : faire goûter à un panel représentatif des participant.es du carnaval et recevoir des retours pour d'autres éventuelles modifications 
+5. test client (60 min) : faire goûter à un panel représentatif des participant.es du carnaval et recevoir des retours pour d'autres éventuelles modifications
 6. rétrospective pour établir le plan d'action pour la finalisation
 
 ### atelier création : séjour immersif
-3 jours pour créer les décors, finaliser les préparations, les costumes 
+3 jours pour créer les décors, finaliser les préparations, les costumes
 #### déroulé
 1. ateliers en parallèle : possibilité de changer d'atelier pour toucher à tout : fabrication et décoration du char, création des costumes et modes de distribution, création des odoramas ou systèmes olfactifs
 2. finalisation des préparations culinaires: création des outils pour la fabrication ou la décoration des créations culinaires
@@ -67,6 +70,3 @@ L'association Gourmandignes et Bénédicte Lambert souhaitent s'associer à dive
 ## budget prévisionnel
 
 20000€ :)
-
-
-
