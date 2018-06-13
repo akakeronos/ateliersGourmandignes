@@ -34,7 +34,7 @@ dépôt de recettes : https://akakeronos.github.io/recettes/
 
 ## Propositions d'ateliers
 
-### ateliers de design thinking ou tempête de cerveaux : 16 personnes
+### ateliers de design thinking ou tempête de cerveaux : 30 personnes
 Le design thinking est un processus utilisant des outils qui favorisent l'innovation. Il utilise la co-créativité et le prototypage/les brouillons qui permettent d'affiner les idées et de tester sa faisabilité.
 Pendant cet atelier de 3 heures, les participant.es sont invitées à imaginer des dispositifs de distribution de nourriture ou des moules permettant la conception de préparations culinaires. (préconisation de 2 ateliers différents pour les dispositifs et les moules)
 #### déroulé
@@ -51,7 +51,7 @@ Pendant cet atelier de 3 heures, les participant.es sont invitées à imaginer d
 -->
 6. goûter partagé et rétrospective : dégustation d'un goûter et échanges sur l'atelier sous la forme d'une rétrospective.
 
-### atelier pédagogique : alimentation augmentée : 16 personnes
+### atelier pédagogique : alimentation augmentée : 30 personnes
 Pendant cet atelier de 3 heures, les participant.es sont invitées à réfléchir sur la notion d'alimentation augmentée
 #### déroulé
 1. accueil des participant.es (20 min): des aliments sont proposés aux participant.es. Chacun.e en choisit un et le fait goûter les yeux bandés à quelqu'un. Chacun.e note sur une feuille le nom de l'aliment et son niveau de sucre, son goût et l'appréciation sur une échelle de 1 à 10
@@ -60,14 +60,14 @@ Pendant cet atelier de 3 heures, les participant.es sont invitées à réfléchi
 5. présentation d'alternatives au sucre (20 min) : les sucres naturels, les aliments au goût sucré
 6. échanges autour des pratiques alimentaires et des possibilités de réduction de la quantité de sucré ingérée quotidiennement
 
-### atelier conception : dispositifs de fabrication ou de distribution : 16 personnes
+### atelier conception : dispositifs de fabrication ou de distribution : 30 personnes
 Pendant cet atelier d'une journée les participant.es sont invitées à concevoir des prototypes de moules ou de dispositifs de distribution pour les recettes qui seront proposées lors du carnaval
 #### déroulé
 1. présentation des idées imaginées lors de l'atelier de design (25 min) : les recettes et les fiches techniques sont présentées aux participant.es qui sont invités à réagir
 2. prototypage (5x40 min) : à l'aide d'une découpeuse laser, de silicone alimentaire et d'outils de bricolage les participant.es sont invité.es à fabriquer des prototypes de moules ou de dispositifs de distribution. Concernant la distribution, l'idée est de fabriquer des dispositifs qui permettent de distribuer de manière augmentée les aliments aux spectateurs à proximité du char mais également de diffuser des odeurs alimentaires.
 3. restitution (50 min) : les projets de prototypes des différentes équipes sont présentés et le détail des difficultés rencontrées sont présentées aux autres groupes. Les fiches techniques de conception sont discutées et enrichies le cas échéant.
 
-### atelier cuisine : prototypage de recettes augmentées : 16 personnes
+### atelier cuisine : prototypage de recettes augmentées : 30 personnes
 Pendant cet atelier d'une journée, à partir des idées proposées lors des ateliers précédents, les participant.es sont invitées à tester les recettes lors d'un atelier de fabrication.
 #### déroulé
 1. accueil des participant.es (25 min): des aliments sont proposés aux participant.es. Chacun.e en choisit un et le fait goûter les yeux bandés à quelqu'un.
@@ -96,7 +96,7 @@ Des ateliers et une parade spécifique à la ville de Floirac sont prévus en vu
 ## budget prévisionnel
 
 **ateliers** :
-6 jours de préparation pour les séquences d'animation, l'achat du matériel et la coordination des partenaires : 1 800 €
+6 jours de préparation pour les séquences d'animation, l'achat du matériel et la coordination des partenaires : 1800 €
 
 12 ateliers : 7 200 €
 
