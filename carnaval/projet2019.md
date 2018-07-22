@@ -34,6 +34,62 @@ dépôt de recettes : https://akakeronos.github.io/recettes/
 
 ## Propositions d'ateliers
 
+publics
+    • Les élèves de 2 classes des écoles élémentaires de Floirac du REP Mandela et leurs parents
+    • Habitants de la RPA de Floirac
+    • Relais habitants
+    • Épicerie solidaire
+
+organisation
+Les ateliers se dérouleront au centre social du bas Floirac. Ils seront proposés simultanément aux enfants de deux classes de deux écoles du bas Floirac, à leurs parents et aux habitants de Floirac de manière à croiser et créer des liens entre des personnes qui ne se connaissent pas forcément.
+L’association Gourmandignes et Bénédicte Lambert animeront les ateliers définis ci-dessous. Ils prendront en charge les deux classes mélangées et réparties en deux groupes. Les enseignants prendront en charge le deuxième groupe et animeront de leurs côtés d’autres ateliers en lien avec la thématique définie.
+
+### atelier 1 : le sucre, découverte, sensibilisation
+1 demi-journée X2
+
+déroulé :
+1. accueil des participant.es : des aliments sont proposés aux participant.es. Chacun.e en choisit un et le fait goûter les yeux bandés à quelqu'un. (brise-glace)
+2. présentation du projet : idées de dispositifs de distributions, visuels de l'édition 2018 du carnaval, présentation de l'idée de char alimentaire orienté vers le thème des sucreries et friandises
+3. chacun.e en choisit un et le fait goûter les yeux bandés à quelqu'un. Chacun.e note sur une feuille le nom de l'aliment et son niveau de sucre, son goût et l'appréciation sur une échelle de 1 à 10
+4. sensibilisation au sucre : présentation des résultats de la séquence précédente. Discussion autour de la sensation de sucré et échanges sur les aliments naturellement sucrés et ceux augmentés en sucre.
+5. procédés de fabrication du sucre
+6. quiz sur le sucre.
+7. présentation d'alternatives au sucre : les sucres naturels, les aliments au goût sucré
+8. échanges autour des pratiques alimentaires et des possibilités de réduction de la quantité de sucré ingérée quotidiennement
+
+En parallèle par les enseignants : le sucre, ses effets sur le corps
+
+### ateliers 2 : essais, tests de recettes de friandises, sucreries
+1 demi-journée X2
+déroulé :
+1. expérimentations : créations à partir des éléments mis à disposition : ingrédients, techniques en lien avec les choix des ateliers précédents (gélification, cuisine moléculaire, cuisson, déshydratation)
+2. préparations culinaires : préparation des recettes à partir des expérimentations
+3. dégustation et propositions d'améliorations : dégustation des prototypes de recettes conçus par les participant.es et échanges en vue de proposer d'éventuelles améliorations
+4. test client : faire goûter à un panel représentatif des participant.es du carnaval et recevoir des retours pour d'autres éventuelles modifications
+5. rétrospective pour établir le plan d'action pour la finalisation
+
+En parallèle par les enseignants : loto des odeurs, découverte de plantes aromatiques dans le jardin des cheminots
+
+### atelier 3 : prototypage de diffuseurs d’odeurs et scénarisation pour diffusion friandises
+1 demi-journée X2
+
+déroulé :
+1. atelier de brainstorming : identifier les besoins et générer autant d'idées que possible sans les juger (imaginer des choses réalistes ou folles)
+2. atelier de conception : par équipe de 4, chaque groupe imagine à l'aide de feuilles, cartons, crayons, ciseaux, colle, matériaux divers, des dispositifs permettant la distribution de nourriture ou la diffusion d'odeurs alimentaires. L'idée est d'augmenter les sensations du public en jouant sur les odeurs, les saveurs ou l'effet de surprise.
+
+### atelier 4 : réalisation et confection des modes de distribution et diffusion
+1 demi-journée x2
+déroulé :
+1. bilan sur les idées retenues
+2. par petits groupes, création des odoramas ou systèmes olfactifs, fabrication des dispositifs de diffusion des créations culinaires, décorations
+
+### Ateliers 5 : Confection, réalisation avant les 2 carnavals
+1 journée X2
+
+déroulé :
+1. finalisation des préparations culinaires et décoration
+2. répétitions et tests avec le char char et des différents systèmes mis en place
+
 ### ateliers de design thinking ou tempête de cerveaux : 30 personnes
 Le design thinking est un processus utilisant des outils qui favorisent l'innovation. Il utilise la co-créativité et le prototypage/les brouillons qui permettent d'affiner les idées et de tester sa faisabilité.
 Pendant cet atelier de 3 heures, les participant.es sont invitées à imaginer des dispositifs de distribution de nourriture ou des moules permettant la conception de préparations culinaires. (préconisation de 2 ateliers différents pour les dispositifs et les moules)
@@ -86,10 +142,18 @@ Pendant cet atelier d'une journée, à partir des idées proposées lors des ate
 
 ## partenaires pressentis
 L'association Gourmandignes et Bénédicte Lambert souhaitent s'associer à diverses structures locales pour proposer sur leur territoire des ateliers en lien avec l'objet du projet.
-* Floirac : école Pierre et Marie Curie, Collège Nelson Mandela, centre social du Bas Floirac, ville de Floirac, RPA...
-* Cenon : association Le déclencheur souple, centre social la Colline, Musique de Nuit, ville de Cenon
-* Lormont : centre social Didée, lycée Elie Faure, INFRA, ville de Lormont
-* en association avec Les Petits Débrouillards, Jeunes Sciences Bordeaux, le Bruit du Frigo...
+
+* Ville de Floirac
+* Écoles de Floirac
+* Arteli
+* Centre social du Bas Floirac
+* Relais Habitants
+* Côté sciences
+* Épicerie solidaire
+* Conseil des sages
+* Quartier Génial
+* Ehpad
+* Jardins des cheminots
 
 Des ateliers et une parade spécifique à la ville de Floirac sont prévus en vue d'une continuité du carnaval des 2 rives. La réutilisation du char et de certains éléments de la parade permettront de créer un contexte festif adapté à la thématique choisie par le carnaval de FLoirac.
 
@@ -100,7 +164,7 @@ Des ateliers et une parade spécifique à la ville de Floirac sont prévus en vu
 
 12 ateliers : 7 200 €
 
-Le prix habituel d'une intervention d'une journée est de 500€ pour Bénédicte et 300 € pour un animateur Gourmandignes. Afin de minimiser le budget un prix de 600 € par atelier pour 2 intervenant.es pour une journée est proposé.
+Le prix habituel d'une intervention d'une journée est de 450€ pour Bénédicte et 350 € pour un animateur Gourmandignes. Afin de minimiser le budget un prix de 600 € par atelier pour 2 intervenant.es pour une journée est proposé.
 Ce tarif comprend par exemple l'animation d'un groupe classe de 25 élèves. Lors de cette journée on peut imaginer 4 séquences de 80 min (4 groupes de 6):
 * design : imaginer des idées de moules, de formes, d'emballage ou de distributeur. Réalisation d'une maquette du projet
 * goût : découverte de goûts sur la thématique du sucré. Présentation d'une séquence vidéo. Echange sur les pratiques d'alimentation
