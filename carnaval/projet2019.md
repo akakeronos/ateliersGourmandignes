@@ -8,7 +8,7 @@ Attaché aux valeurs du partage, nous proposerons une restitution des ateliers e
 
 Le point d'orgue de ce projet consistera à **accompagner la déambulation du char lors des parades du carnaval des 2 rives et du carnaval de Floirac**. A cette occasion les participants seront invités à interagir avec les spectatrices et les spectateurs à l'aide de leur 5 sens. Odoramat, projections, distributions permettront d'augmenter la parade d'une proposition gustative.
 
-![char d'oranges](./char_orange.png)
+![char d'oranges](./troischars.png)
 
 ## Qui sommes-nous ?
 **AMAP Gourmandignes** : basée à Cenon, l'association Gourmandignes s'emploie depuis 2010 à mettre en relation consommateurs et producteurs locaux pour favoriser l'agriculture biologique et contribuer son accessibilité à tous les publics. Elle propose aux 70 familles adhérentes, 15 productions issues d'agricult.rice.eurs girondins chaque semaine sur le lieu de distribution situé à proximité de la mairie de Cenon. Elle propose également des ateliers culinaires en partenariat avec des centres sociaux de la rive droite animée par des professionnels de la cuisine.
@@ -93,6 +93,8 @@ En parallèle par les enseignants : loto des odeurs, découverte de plantes aro
 
 Pendant cet atelier d'une journée les participant.es sont invitées à concevoir des prototypes de moules ou de dispositifs de distribution pour les recettes qui seront proposées lors du carnaval
 
+![char d'oranges](./charsetperso.png)
+
 **déroulé** :
 1. atelier de brainstorming : identifier les besoins et générer autant d'idées que possible sans les juger (imaginer des choses réalistes ou folles)
 2. atelier de conception : par équipe de 4, chaque groupe imagine à l'aide de feuilles, cartons, crayons, ciseaux, colle, matériaux divers, des dispositifs permettant la distribution de nourriture ou la diffusion d'odeurs alimentaires. L'idée est d'augmenter les sensations du public en jouant sur les odeurs, les saveurs ou l'effet de surprise.
@@ -106,6 +108,7 @@ Pendant cet atelier de 3 heures, les participant.es sont invitées à imaginer d
 1. bilan sur les idées retenues
 2. par petits groupes, fabrication des dispositifs de diffusion des créations culinaires, décorations. Concernant la distribution, l'idée est de fabriquer des dispositifs qui permettent de distribuer de manière augmentée les aliments aux spectateurs à proximité du char mais également de diffuser des odeurs alimentaires.
 
+![char d'oranges](./détailscharbouffe.png)
 
 ### Ateliers 5 : Confection, réalisation avant les 2 carnavals
 **durée** : 1 journée X2
@@ -153,7 +156,10 @@ Pour concevoir ce char, permettre des expérimentations lors des ateliers et ré
 * prix matières premières (construction, création, décors, nourriture) : 1 700€
 
 total : 6 300€
+crd aout 104392,91
+crd septembre 103805,81
 
+faire un courrier à la délégation pour le remboursement des parts sociales du premier prêt
 
 ## Plan de financement
 
