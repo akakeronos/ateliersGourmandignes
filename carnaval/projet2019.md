@@ -1,17 +1,21 @@
 # Déambulation gastronomique augmentée
 
-En association avec la direction artistique du carnaval des 2 rives, de l’association Arteli et Jean-François André, l'association Gourmandignes et Bénédicte Lambert, créatrice culinaire s'unissent pour proposer un projet de char consacré à l'alimentation augmentée.
-L'intention est de créer des liens intergénérationnels avec différents acteurs potentiels : les enfants, les adultes, les personnes âgées qui se rencontrent peu habituellement sur des projets d'envergure. À travers les outils pédagogiques, technologiques et créatifs, la co-construction de cet événement festif va favoriser la transmission, le partage et la valorisation des savoir-faire. Attaché aux valeurs du partage, nous proposerons une restitution des ateliers et des étapes de conception et réalisation sous la forme d'une documentation publiée sur Internet assortie d'une licence de libre réutilisation.
-Le point d'orgue de ce projet consistera à accompagner la déambulation du char lors des parades du carnaval des 2 rives et du carnaval de Floirac. A cette occasion les participants seront invités à interagir avec les spectatrices et les spectateurs à l'aide de leur 5 sens. Odoramat, projections, distributions permettront d'augmenter la parade d'une proposition gustative.
+En association avec la direction artistique du carnaval des 2 rives, de l’association Arteli et Jean-François André, l'association Gourmandignes et Bénédicte Lambert, créatrice culinaire s'unissent pour proposer un **projet de char consacré à l'alimentation augmentée**.
+
+L'intention est de créer des liens intergénérationnels avec différents acteurs potentiels : les enfants, les adultes, les personnes âgées qui se rencontrent peu habituellement sur des projets d'envergure. **À travers les outils pédagogiques, technologiques et créatifs, la co-construction de cet événement festif va favoriser la transmission, le partage et la valorisation des savoir-faire**.
+
+Attaché aux valeurs du partage, nous proposerons une restitution des ateliers et des étapes de conception et réalisation sous la forme d'une documentation publiée sur Internet assortie d'une licence de libre réutilisation.
+
+Le point d'orgue de ce projet consistera à **accompagner la déambulation du char lors des parades du carnaval des 2 rives et du carnaval de Floirac**. A cette occasion les participants seront invités à interagir avec les spectatrices et les spectateurs à l'aide de leur 5 sens. Odoramat, projections, distributions permettront d'augmenter la parade d'une proposition gustative.
 
 ![char d'oranges](./char_orange.png)
 
 ## Qui sommes-nous ?
-AMAP Gourmandignes : basée à Cenon, l'association Gourmandignes s'emploie depuis 2010 à mettre en relation consommateurs et producteurs locaux pour favoriser l'agriculture biologique et contribuer son accessibilité à tous les publics. Elle propose aux 70 familles adhérentes, 15 productions issues d'agricult.rice.eurs girondins chaque semaine sur le lieu de distribution situé à proximité de la mairie de Cenon. Elle propose également des ateliers culinaires en partenariat avec des centres sociaux de la rive droite animée par des professionnels de la cuisine.
+**AMAP Gourmandignes** : basée à Cenon, l'association Gourmandignes s'emploie depuis 2010 à mettre en relation consommateurs et producteurs locaux pour favoriser l'agriculture biologique et contribuer son accessibilité à tous les publics. Elle propose aux 70 familles adhérentes, 15 productions issues d'agricult.rice.eurs girondins chaque semaine sur le lieu de distribution situé à proximité de la mairie de Cenon. Elle propose également des ateliers culinaires en partenariat avec des centres sociaux de la rive droite animée par des professionnels de la cuisine.
 
 En savoir plus : https://gourmandignes.org
 
-Bénédicte, créatrice culinaire : je réalise des prestations autour de la gastronomie ; de la création de recettes, des ateliers de découverte ou de design, du stylisme et de l'événementiel.
+**Bénédicte Lambert, créatrice culinaire**: je réalise des prestations autour de la gastronomie ; de la création de recettes, des ateliers de découverte ou de design, du stylisme et de l'événementiel.
 
 Scénographe, j'ai travaillé une dizaine d'années comme comédienne et marionnettiste. J'ai obtenu mon CAP de pâtisserie en candidat libre et je suis partie l'éprouver au Japon dans un restaurant franco-japonais.
 
@@ -48,7 +52,7 @@ L’association Gourmandignes et Bénédicte Lambert animeront les ateliers déf
 Ils prendront en charge les deux classes mélangées et réparties en deux groupes.
 Les enseignants prendront en charge le deuxième groupe et animeront de leurs côtés d’autres ateliers en lien avec la thématique définie.
 
-Afin de favoriser la participation active et la capacité à penser et réaliser collectivement, la méthode de design thinking sera utilisée. Il s'agit d'un processus utilisant des outils qui favorisent l'innovation. Il utilise la co-créativité et le prototypage/les brouillons qui permettent d'affiner les idées et de tester sa faisabilité.
+Afin de favoriser la participation active et la capacité à penser et réaliser collectivement, **la méthode de design thinking** sera utilisée. Il s'agit d'un processus utilisant des outils qui favorisent l'innovation. Il utilise la co-créativité et le prototypage/les brouillons qui permettent d'affiner les idées et de tester sa faisabilité.
 
 
 ### Atelier 1 : le sucre, découverte, sensibilisation
