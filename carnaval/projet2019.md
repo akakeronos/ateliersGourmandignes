@@ -1,9 +1,7 @@
 # Déambulation gastronomique augmentée
 
-En association avec la direction artisitique du carnaval des 2 rives et sa thématique, l'association Gourmandignes et Bénédicte Lambert, créatice culinaire s'unissent pour proposer un projet de char consacré à l'alimentation augmentée.
-
-L'intention est de créer des liens intergénérationnels avec différents acteurs potentiels : les enfants, les adolescents, les personnes âgées qui se rencontrent peu habituellement sur des projets d'envergure. À travers les outils pédagogiques, technologiques et créatifs, la co-construction de cet évènement festif va favoriser la transmission, le partage et la valorisation des savoir-faire. Attaché aux valeurs du partage, nous porposerons une restitution des ateliers et des étapes de conception et réalisation sous la forme d'une documentation publiée sur Internet assorite d'une licence de libre réutilisation.
-
+En association avec la direction artistique du carnaval des 2 rives, de l’association Arteli et Jean-François André, l'association Gourmandignes et Bénédicte Lambert, créatrice culinaire s'unissent pour proposer un projet de char consacré à l'alimentation augmentée.
+L'intention est de créer des liens intergénérationnels avec différents acteurs potentiels : les enfants, les adultes, les personnes âgées qui se rencontrent peu habituellement sur des projets d'envergure. À travers les outils pédagogiques, technologiques et créatifs, la co-construction de cet événement festif va favoriser la transmission, le partage et la valorisation des savoir-faire. Attaché aux valeurs du partage, nous proposerons une restitution des ateliers et des étapes de conception et réalisation sous la forme d'une documentation publiée sur Internet assortie d'une licence de libre réutilisation.
 Le point d'orgue de ce projet consistera à accompagner la déambulation du char lors des parades du carnaval des 2 rives et du carnaval de Floirac. A cette occasion les participants seront invités à interagir avec les spectatrices et les spectateurs à l'aide de leur 5 sens. Odoramat, projections, distributions permettront d'augmenter la parade d'une proposition gustative.
 
 ![char d'oranges](./char_orange.png)
@@ -26,7 +24,7 @@ En savoir plus : http://www.benedictelambert.com/
 En 2018, nous avons participé au carnaval des 2 rives en proposant un stand de nourritures et de boissons sucrées aux participants du carnaval.
 Organisé en partenariat avec le centre social du Grand parc, nous avons imaginé un goûter sucré constitué uniquement à partir de produits issus de l'agriculture locale biologique. Ce stand de vente de nourriture et boissons était augmenté par une scénographie invitant à la découverte de quelques secrets alimentaires.
 
-Nous intervenons également régulièrement lors d'événements festifs sur Cenon pour des fêtes de quartier ou lors d'évènements culturels (Le Tube, Festi Family, Guinguette de Testaud, gratiferia) en associant les participant.es à l'élaboration des préparations de recettes.
+Nous intervenons également régulièrement lors d'événements festifs sur Cenon pour des fêtes de quartier ou lors d'évènements culturels (Le Tube, Festi Family, Guinguette de Testaud, gratiferia, dîners sur l'herbe) en associant les participant.es à l'élaboration des préparations de recettes.
 
 Depuis 18 mois, nous organisons un cours mensuel de cuisine collaborative en partenariat avec le centre social Didée à Lormont où nous invitons les participant.es à (re-)découvrir des produits simples et sains, principalement issus des producteurs qui coopérent avec l'AMAP.
 
@@ -34,20 +32,31 @@ dépôt de recettes : https://akakeronos.github.io/recettes/
 
 ## Propositions d'ateliers
 
-publics
-    • Les élèves de 2 classes des écoles élémentaires de Floirac du REP Mandela et leurs parents
-    • Habitants de la RPA de Floirac
-    • Relais habitants
-    • Épicerie solidaire
+### Publics
 
-organisation
-Les ateliers se dérouleront au centre social du bas Floirac. Ils seront proposés simultanément aux enfants de deux classes de deux écoles du bas Floirac, à leurs parents et aux habitants de Floirac de manière à croiser et créer des liens entre des personnes qui ne se connaissent pas forcément.
-L’association Gourmandignes et Bénédicte Lambert animeront les ateliers définis ci-dessous. Ils prendront en charge les deux classes mélangées et réparties en deux groupes. Les enseignants prendront en charge le deuxième groupe et animeront de leurs côtés d’autres ateliers en lien avec la thématique définie.
+* Les élèves de 2 classes des écoles élémentaires de Floirac du REP Mandela et leurs parents
+* Habitants de la RPA de Floirac
+* Relais habitants
+* Épicerie solidaire
 
-### atelier 1 : le sucre, découverte, sensibilisation
-1 demi-journée X2
+### Organisation
+Les ateliers se dérouleront au centre social du bas Floirac.
 
-déroulé :
+Ils seront proposés simultanément aux enfants de deux classes de deux écoles du bas Floirac, à leurs parents et aux habitants de Floirac de manière à croiser et créer des liens entre des personnes qui ne se connaissent pas forcément.
+
+L’association Gourmandignes et Bénédicte Lambert animeront les ateliers définis ci-dessous.
+Ils prendront en charge les deux classes mélangées et réparties en deux groupes.
+Les enseignants prendront en charge le deuxième groupe et animeront de leurs côtés d’autres ateliers en lien avec la thématique définie.
+
+Afin de favoriser la participation active et la capacité à penser et réaliser collectivement, la méthode de design thinking sera utilisée. Il s'agit d'un processus utilisant des outils qui favorisent l'innovation. Il utilise la co-créativité et le prototypage/les brouillons qui permettent d'affiner les idées et de tester sa faisabilité.
+
+
+### Atelier 1 : le sucre, découverte, sensibilisation
+**durée** : 1 demi-journée X2
+
+Pendant cet atelier de 3 heures, les participant.es sont invitées à réfléchir sur la notion d'alimentation augmentée
+
+**déroulé** :
 1. accueil des participant.es : des aliments sont proposés aux participant.es. Chacun.e en choisit un et le fait goûter les yeux bandés à quelqu'un. (brise-glace)
 2. présentation du projet : idées de dispositifs de distributions, visuels de l'édition 2018 du carnaval, présentation de l'idée de char alimentaire orienté vers le thème des sucreries et friandises
 3. chacun.e en choisit un et le fait goûter les yeux bandés à quelqu'un. Chacun.e note sur une feuille le nom de l'aliment et son niveau de sucre, son goût et l'appréciation sur une échelle de 1 à 10
@@ -60,8 +69,11 @@ déroulé :
 En parallèle par les enseignants : le sucre, ses effets sur le corps
 
 ### ateliers 2 : essais, tests de recettes de friandises, sucreries
-1 demi-journée X2
-déroulé :
+**durée** : 1 demi-journée X2
+
+Pendant cet atelier d'une journée, à partir des idées proposées lors des ateliers précédents, les participant.es sont invitées à tester les recettes lors d'un atelier de fabrication.
+
+**déroulé** :
 1. expérimentations : créations à partir des éléments mis à disposition : ingrédients, techniques en lien avec les choix des ateliers précédents (gélification, cuisine moléculaire, cuisson, déshydratation)
 2. préparations culinaires : préparation des recettes à partir des expérimentations
 3. dégustation et propositions d'améliorations : dégustation des prototypes de recettes conçus par les participant.es et échanges en vue de proposer d'éventuelles améliorations
@@ -70,77 +82,35 @@ déroulé :
 
 En parallèle par les enseignants : loto des odeurs, découverte de plantes aromatiques dans le jardin des cheminots
 
-### atelier 3 : prototypage de diffuseurs d’odeurs et scénarisation pour diffusion friandises
-1 demi-journée X2
+6. goûter partagé et rétrospective : dégustation d'un goûter et échanges sur l'atelier sous la forme d'une rétrospective.
 
-déroulé :
+### atelier 3 : prototypage de diffuseurs pour distribution des friandises
+**durée** : 1 demi-journée X2
+
+Pendant cet atelier d'une journée les participant.es sont invitées à concevoir des prototypes de moules ou de dispositifs de distribution pour les recettes qui seront proposées lors du carnaval
+
+**déroulé** :
 1. atelier de brainstorming : identifier les besoins et générer autant d'idées que possible sans les juger (imaginer des choses réalistes ou folles)
 2. atelier de conception : par équipe de 4, chaque groupe imagine à l'aide de feuilles, cartons, crayons, ciseaux, colle, matériaux divers, des dispositifs permettant la distribution de nourriture ou la diffusion d'odeurs alimentaires. L'idée est d'augmenter les sensations du public en jouant sur les odeurs, les saveurs ou l'effet de surprise.
 
+Pendant cet atelier de 3 heures, les participant.es sont invitées à imaginer des dispositifs de distribution de nourriture ou des moules permettant la conception de préparations culinaires. (préconisation de 2 ateliers différents pour les dispositifs et les moules)
+
 ### atelier 4 : réalisation et confection des modes de distribution et diffusion
-1 demi-journée x2
-déroulé :
+**durée** : 1 demi-journée x2
+
+**déroulé** :
 1. bilan sur les idées retenues
-2. par petits groupes, création des odoramas ou systèmes olfactifs, fabrication des dispositifs de diffusion des créations culinaires, décorations
+2. par petits groupes, fabrication des dispositifs de diffusion des créations culinaires, décorations. Concernant la distribution, l'idée est de fabriquer des dispositifs qui permettent de distribuer de manière augmentée les aliments aux spectateurs à proximité du char mais également de diffuser des odeurs alimentaires.
+
 
 ### Ateliers 5 : Confection, réalisation avant les 2 carnavals
-1 journée X2
+**durée** : 1 journée X2
 
-déroulé :
+**déroulé** :
 1. finalisation des préparations culinaires et décoration
 2. répétitions et tests avec le char char et des différents systèmes mis en place
 
-### ateliers de design thinking ou tempête de cerveaux : 30 personnes
-Le design thinking est un processus utilisant des outils qui favorisent l'innovation. Il utilise la co-créativité et le prototypage/les brouillons qui permettent d'affiner les idées et de tester sa faisabilité.
-Pendant cet atelier de 3 heures, les participant.es sont invitées à imaginer des dispositifs de distribution de nourriture ou des moules permettant la conception de préparations culinaires. (préconisation de 2 ateliers différents pour les dispositifs et les moules)
-#### déroulé
-1. accueil des participant.es (20 min): des aliments sont proposés aux participant.es. Chacun.e en choisit un et le fait goûter les yeux bandés à quelqu'un. (icebreaker)
-2. présentation du projet (15 min) : idées de dispositifs de distributions, visuels de l'édition 2018 du carnaval, présentation de l'idée de char alimentaire.
-3. atelier de brainstorming (40 min) : identifier les besoins et générer autant d'idées que possible sans les juger (imaginer des choses réalistes ou folles)
-3. atelier de conception (45 min) : par équipe de 4, chaque groupe imagine à l'aide de feuilles, cartons, crayons, ciseaux, colle, matériaux divers, des dispositifs permettant la distribution de nourriture ou la diffusion d'odeurs alimentaires. L'idée est d'augmenter les sensations du public en jouant sur les odeurs, les saveurs ou l'effet de surprise.
-4. restitution (40 min) : chaque groupe dispose de 10 min pour présenter aux autres groupes son projet en expliquant les étapes nécessaires à la conception et les besoins matériels pour la restitution
-<!--
-[5. consolidation (40 min): Les 2 projets les plus plébiscités sont consolidés par les participant.es afin d'établir une fiche technique détaillée.
-* Recette avec les temps de fabrication, les coûts associés
-* fiche technique de fabrication et modélisation 2D/3D pour les dispositifs de présentation ou de diffusion]
-
--->
-6. goûter partagé et rétrospective : dégustation d'un goûter et échanges sur l'atelier sous la forme d'une rétrospective.
-
-### atelier pédagogique : alimentation augmentée : 30 personnes
-Pendant cet atelier de 3 heures, les participant.es sont invitées à réfléchir sur la notion d'alimentation augmentée
-#### déroulé
-1. accueil des participant.es (20 min): des aliments sont proposés aux participant.es. Chacun.e en choisit un et le fait goûter les yeux bandés à quelqu'un. Chacun.e note sur une feuille le nom de l'aliment et son niveau de sucre, son goût et l'appréciation sur une échelle de 1 à 10
-2. sensibilisation au sucre (40 min): présentation des résultats de la séquence précédente. Discussion autour de la sensation de sucré et échanges sur les aliments naturellement sucrés et ceux augmentés en sucre. Quiz sur le sucre.
-4. projection du documentaire Sugarland (90 min)
-5. présentation d'alternatives au sucre (20 min) : les sucres naturels, les aliments au goût sucré
-6. échanges autour des pratiques alimentaires et des possibilités de réduction de la quantité de sucré ingérée quotidiennement
-
-### atelier conception : dispositifs de fabrication ou de distribution : 30 personnes
-Pendant cet atelier d'une journée les participant.es sont invitées à concevoir des prototypes de moules ou de dispositifs de distribution pour les recettes qui seront proposées lors du carnaval
-#### déroulé
-1. présentation des idées imaginées lors de l'atelier de design (25 min) : les recettes et les fiches techniques sont présentées aux participant.es qui sont invités à réagir
-2. prototypage (5x40 min) : à l'aide d'une découpeuse laser, de silicone alimentaire et d'outils de bricolage les participant.es sont invité.es à fabriquer des prototypes de moules ou de dispositifs de distribution. Concernant la distribution, l'idée est de fabriquer des dispositifs qui permettent de distribuer de manière augmentée les aliments aux spectateurs à proximité du char mais également de diffuser des odeurs alimentaires.
-3. restitution (50 min) : les projets de prototypes des différentes équipes sont présentés et le détail des difficultés rencontrées sont présentées aux autres groupes. Les fiches techniques de conception sont discutées et enrichies le cas échéant.
-
-### atelier cuisine : prototypage de recettes augmentées : 30 personnes
-Pendant cet atelier d'une journée, à partir des idées proposées lors des ateliers précédents, les participant.es sont invitées à tester les recettes lors d'un atelier de fabrication.
-#### déroulé
-1. accueil des participant.es (25 min): des aliments sont proposés aux participant.es. Chacun.e en choisit un et le fait goûter les yeux bandés à quelqu'un.
-2. expérimentations (3x40 min) : créations à partir des éléments mis à disposition : ingrédients, techniques en lien avec les choix des ateliers précédents (gélification, cuisine moléculaire, cuisson, déshydratation)
-3. préparations culinaires (3x40 min) : préparation des recettes à partir des expérimentations
-4. dégustation et propositions d'améliorations (35 min) : dégustation des prototypes de recettes conçus par les participant.es et échanges en vue de proposer d'éventuelles améliorations
-5. test client (60 min) : faire goûter à un panel représentatif des participant.es du carnaval et recevoir des retours pour d'autres éventuelles modifications
-6. rétrospective pour établir le plan d'action pour la finalisation
-
-### atelier création : séjour immersif
-3 jours pour créer les décors, finaliser les préparations, les costumes
-#### déroulé
-1. ateliers en parallèle : possibilité de changer d'atelier pour toucher à tout : fabrication et décoration du char, création des costumes et modes de distribution, création des odoramas ou systèmes olfactifs
-2. finalisation des préparations culinaires: création des outils pour la fabrication ou la décoration des créations culinaires
-3. répétitions et tests du char et des différents systèmes mis en place
-
-## partenaires pressentis
+## Partenaires pressentis
 L'association Gourmandignes et Bénédicte Lambert souhaitent s'associer à diverses structures locales pour proposer sur leur territoire des ateliers en lien avec l'objet du projet.
 
 * Ville de Floirac
@@ -157,12 +127,12 @@ L'association Gourmandignes et Bénédicte Lambert souhaitent s'associer à dive
 
 Des ateliers et une parade spécifique à la ville de Floirac sont prévus en vue d'une continuité du carnaval des 2 rives. La réutilisation du char et de certains éléments de la parade permettront de créer un contexte festif adapté à la thématique choisie par le carnaval de FLoirac.
 
-## budget prévisionnel
+## Budget prévisionnel
 
 **ateliers** :
-6 jours de préparation pour les séquences d'animation, l'achat du matériel et la coordination des partenaires : 1800 €
+6 jours gestion de projet pour les séquences d'animation et la coordination des partenaires : 1800 €
 
-12 ateliers : 7 200 €
+5 ateliers : 3 000 €
 
 Le prix habituel d'une intervention d'une journée est de 450€ pour Bénédicte et 350 € pour un animateur Gourmandignes. Afin de minimiser le budget un prix de 600 € par atelier pour 2 intervenant.es pour une journée est proposé.
 Ce tarif comprend par exemple l'animation d'un groupe classe de 25 élèves. Lors de cette journée on peut imaginer 4 séquences de 80 min (4 groupes de 6):
@@ -173,11 +143,16 @@ Ce tarif comprend par exemple l'animation d'un groupe classe de 25 élèves. Lor
 
 A ce groupe classe peuvent êter associés des personnes provenant d'autres contextes (adolescents, personnes âgées, famille, etc.)
 
-Pour la partie ateliers le budget proposé est de 9 000€. Il couvre la conception, la coordination et l'animation de 12 ateliers en vue de construire un char alimentaire augmenté.
+Pour la partie ateliers le budget proposé est de 3 000€. Il couvre la conception, la coordination et l'animation de 5 ateliers en vue de construire un char alimentaire augmenté.
 
 Pour concevoir ce char, permettre des expérimentations lors des ateliers et réaliser les dispositifs de fabrication de recettes et la distribution des denrées préparées lors de la parade, le budget prévisionnel ci-dessous est proposé :
-* prix matières premières (construction, création, décors, nourriture) : 4 500€
-* prix des espaces de création spécifiques, intervenants spécifiques : 3 500€
-* séjour immersif (lieu, intervenant, repas) : 6 000€
+* prix matières premières (construction, création, décors, nourriture) : 1 700€
 
-total : 23000€
+total : 6 300€
+
+
+## Plan de financement
+
+Prestation prise en charge par le carnaval des 2 rives : 2 500 €
+Demande de financement à la mairie de Floirac : 2 000 €
+Demande de subvention Fondation de France : 2 000 €
