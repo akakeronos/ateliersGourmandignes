@@ -188,6 +188,10 @@ Budget total : 5 000€
 
 ## Plan de financement
 
+En complément de la subvention accordée par l'équie en charge de l'organisation du carnaval des deux rives, une demande de financement complémentaire est demandée à la ville de Floirac en vue de permettre la parade lors du carnaval de la ville avec la distribution de friandises.
+
+Parallèlement d'autres dossiers de demande de financement sont en cours d'étude ou de rédaction afin de permettre la mise à disposition de deux intervnant.es par atelier et la réalisation de plus de friandises pour les 2 carnavals.
+
 * Prestation prise en charge par le carnaval des 2 rives : 2 500 €
 * Demande de financement à la mairie de Floirac : 2 000 €
 
