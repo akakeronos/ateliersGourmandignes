@@ -171,20 +171,18 @@ Ce tarif comprend par exemple l'animation de deux groupes classe de 25 élèves.
 * cuisine : réalisation d'une recette individuellement ou par groupe de 3
 * conception ou réalisation de maquette pour le char
 
-budget prévisionnel =
+budget prévisionnel = 3 000 €
 * 14 demi journées d'ateliers pour un budget de 2 100€  (Ils couvrent la conception, la coordination et l'animation de 6 ateliers en vue de construire et d'animer la distribution de gourmandises sur un char alimentaire augmenté.
 
 * 3 jours de gestion de projet et de coordination du projet par les Gourmandignes et Bénédicte Lambert pour un budget de 900€
 
 Pour concevoir ce char, permettre des expérimentations lors des ateliers et réaliser les dispositifs de fabrication de recettes et la distribution des denrées préparées lors de la parade:
 
-budget prévisionnel :
+budget prévisionnel : 2 000 €
 
-* prix des matières premières (construction, création, décors, nourriture) pour une distribution de 2 500 friandises
+* prix des matières premières (construction, création, décors, nourriture) pour une distribution de 2 500 friandises : 2000€
 
-budget de 2000€
-
-Budget total : 5 000€
+Budget prévisionnel total : 5 000€
 
 ## Plan de financement
 
