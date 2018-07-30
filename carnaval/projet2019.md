@@ -1,6 +1,6 @@
 # Déambulation gastronomique augmentée
 
-En association avec la direction artistique du Carnaval des 2 rives de Bordeaux ayant pour thème "le carnaval augmenté", de l’association Arteli et Jean-François André, l'association Gourmandignes et Bénédicte Lambert, créatrice culinaire s'unissent pour proposer un **projet de char consacré à l'alimentation augmentée**.
+En association avec la direction artistique du Carnaval des 2 rives de Bordeaux ayant pour thème "le carnaval augmenté", l'association Gourmandignes et Bénédicte Lambert, créatrice culinaire s'unissent pour proposer un **projet de char consacré à l'alimentation augmentée**.
 
 L'intention est de créer des liens intergénérationnels avec différents acteurs potentiels : les enfants, les adultes, les personnes âgées qui se rencontrent peu habituellement sur des projets d'envergure. **À travers les outils pédagogiques, technologiques et créatifs, la co-construction de cet événement festif va favoriser la transmission, la découverte, le partage, la valorisation et la mise en oeuvre des savoir-faire**.
 
@@ -8,20 +8,14 @@ Attachés aux valeurs du partage, nous proposerons une restitution des ateliers 
 
 Le point d'orgue de ce projet consistera à **accompagner la déambulation du char lors des parades du Carnaval des 2 rives et du Carnaval de Floirac**. A cette occasion, les participants seront invités à interagir avec les spectatrices et les spectateurs en stimulant leurs 5 sens. Odoramat, intéractions ludiques, distributions permettront d'augmenter la parade d'une proposition gustative.
 
+Ce projet s'articule avec celui mené par l'association Arteli qui consistera à construire un second char reprenant l'univers graphique proposé par la direction artistique du carnaval des 2 rives. Les dispositifs de distribution et les friandises préparés lors des ateliers mené au centre social de Floirac seront mobilisés pour les 2 carnavals.
+
 ![char d'oranges](./charsetperso.png)
 
 ## Qui sommes-nous ?
 **AMAP Gourmandignes** : basée à Cenon, l'association Gourmandignes s'emploie depuis 2010 à mettre en relation consommateurs et producteurs locaux pour favoriser l'agriculture biologique et contribuer son accessibilité à tous les publics. Elle propose aux 70 familles adhérentes, 15 productions issues d'agricult.rice.eurs girondins chaque semaine sur le lieu de distribution situé à proximité de la mairie de Cenon. Elle propose également des ateliers culinaires en partenariat avec des centres sociaux de la rive droite animée par des professionnels de la cuisine.
 
 En savoir plus : https://gourmandignes.org
-
-**Arteli** : L'association Arteli, domiciliée sur la commune de Floirac en Gironde, développe des projets innovants et créatifs, en lien avec les arts plastiques, avec comme missions premières de promouvoir l'expression artistique, de fédérer les personnes et de créer du lien entre les structures du territoire.
-
-L'association Arteli développe des projets en arts plastiques, portés par des professionnels, avec pour missions de fédérer les personnes par l'expression artistique, valoriser l'individu et plus largement favoriser la mixité sociale et culturelle sur notre territoire.
-
-L'Atelier d'Arteli, situé à proximité de la M270 sur le bas Floirac, est un lieu de vie chaleureux et convivial où la création est source de rencontres et d'échanges.
-
-En savoir plus : http://arteli-association.fr/
 
 **Bénédicte Lambert, créatrice culinaire** réalise des prestations autour de la gastronomie ; de la création de recettes, des ateliers de découverte ou de design, du stylisme et de l'événementiel.
 
@@ -42,13 +36,6 @@ Les Gourmandignes et Bénédicte intervennient également régulièrement lors d
 Depuis 18 mois, Les Gourmandignes et Bénédicte organisent un cours mensuel de cuisine collaborative en partenariat avec le centre social Didée à Lormont où ils invitent les participant.es à (re-)découvrir des produits simples et sains, principalement issus des producteurs qui coopérent avec l'AMAP.
 
 dépôt de recettes : https://akakeronos.github.io/recettes/
-
-Arteli développe également des projets auprès de ses partenaires sur Floirac et sur Bordeaux.
-L’association a soutenu la réalisation de 13 projets en 2017 auprès d’un public d’enfants, d’adultes et de familles et a mené 99 ateliers sur Floirac et Bordeaux et 636 personnes ont été accueillies sur les différentes actions. Arteli favorise les actions intergénérationnelles, interculturelles, fédératrices d'échanges et de rencontres.
-
-Chaque projet impulsé par l'association fait l'objet d'un écrit où sont détaillés l'action, les techniques artistiques, le calendrier, mais aussi les objectifs et l'évaluation de l'action ainsi que son budget. Une convention sera établie entre Arteli et les structures associées à la réalisation des projets.
-
-L'association veille à impulser des projets prenant en compte les spécificités et les besoins des individus en fonction de leur tranche d'âge.
 
 ## Propositions d'ateliers
 
@@ -77,12 +64,8 @@ Afin de favoriser la participation active et la capacité à penser et réaliser
 ![char d'oranges](./troischars.png)
 
 Ce char est conçu et construit par l'équipe du Carnaval des 2 rives de Bordeaux et Guillaumit. Il est entièrement financé par le budget du Carnaval des 2 rives.  
-Il est manipulé par des bénvoles. À l'intérieur, il y aura des cuisiniers ainsi que des personnages déguisés à l'extérieur.  
+Il est manipulé par des bénévoles. À l'intérieur, il y aura des cuisiniers ainsi que des personnages déguisés à l'extérieur.  
 Les participants des ateliers de Floirac seront invités à venir participer à la déambulation, ils revêteront un costume spécifique et reconnaissable, en lien avec le char et les personnages.
-
-### Augmentation par Arteli
-
-L'association Arteli et son réseau de partenaires locaux concevront et réaliseront un second char qui reprendra l'univers graphique proposé par la direction artisitique du Carnaval des 2 rives en ajoutant une dimension de participation citoyenne. Ce seond char permettra notamment le stockage et le ré-approvisionnement en gourmandises préparées par Bénédicte Lambert et l'association Gourmandignes.
 
 ### Atelier 1 : design thinking : la gourmandise distribuée
 **durée** : 1 demi-journée
@@ -158,7 +141,7 @@ Pendant cet atelier de 3 heures, les participant.es sont invitées à imaginer d
 2. répétitions et tests avec le char et des différents systèmes mis en place
 
 ## Partenaires pressentis
-L'association Gourmandignes et Bénédicte Lambert s'associent à Arteli pour participer à l'organisation des 2 carnaval en lien avec diverses structures locales pour proposer sur leurs territoires des ateliers en lien avec l'objet du projet.
+L'association Gourmandignes et Bénédicte Lambert s'associent à Arteli pour participer à l'organisation des 2 carnavals en lien avec diverses structures locales pour proposer sur leurs territoires des ateliers en lien avec l'objet du projet.
 
 * Ville de Floirac
 * Écoles de Floirac
@@ -179,31 +162,34 @@ Des ateliers et une parade spécifique à la ville de Floirac sont prévus en vu
 **ateliers** :
 
 
-Le prix habituel d'une intervention d'une journée est de 450€ pour Bénédicte et 350 € pour un animateur Gourmandignes. Afin de minimiser le budget un prix de 600 € par atelier pour 2 intervenant.es pour une journée est proposé.
+Le prix habituel d'une intervention d'une journée est de 450€ pour Bénédicte et 350 € pour un animateur Gourmandignes.
+Afin de minimiser le budget un prix de 300 € par atelier pour 1 intervenant.es pour une journée est proposé.
 
-Ce tarif comprend par exemple l'animation d'un groupe classe de 25 élèves. A ce groupe classe seront associés des personnes provenant d'autres contextes (adolescents, personnes âgées, famille, etc.) Lors de cette journée on peut imaginer 4 séquences de 80 min (4 groupes de 12):
+Ce tarif comprend par exemple l'animation de deux groupes classe de 25 élèves. A ce groupe classe seront associés des personnes provenant d'autres contextes (adolescents, personnes âgées, famille, etc.) Lors de cette journée on peut imaginer 4 séquences de 80 min (4 groupes de 12):
 * design : imaginer des idées de moules, de formes, d'emballage ou de distributeur. Réalisation d'une maquette du projet
 * goût : découverte de goûts sur la thématique du sucré. Présentation d'une séquence vidéo. Echange sur les pratiques d'alimentation
 * cuisine : réalisation d'une recette individuellement ou par groupe de 3
 * conception ou réalisation de maquette pour le char
 
-budget prévisionnel = * 14 demi journées d'ateliers pour un budget de 4200€  (Ils couvrent la conception, la coordination et l'animation de 6 ateliers en vue de construire et d'animer la distribution de gourmandises sur un char alimentaire augmenté.
+budget prévisionnel =
+* 14 demi journées d'ateliers pour un budget de 2 100€  (Ils couvrent la conception, la coordination et l'animation de 6 ateliers en vue de construire et d'animer la distribution de gourmandises sur un char alimentaire augmenté.
 
-* 6 jours de gestion de projet et de coordination du projet par les Gourmandignes et Bénédicte Lambert pour un budget de 1800€
+* 3 jours de gestion de projet et de coordination du projet par les Gourmandignes et Bénédicte Lambert pour un budget de 900€
 
 Pour concevoir ce char, permettre des expérimentations lors des ateliers et réaliser les dispositifs de fabrication de recettes et la distribution des denrées préparées lors de la parade:
 
 budget prévisionnel :
 
-* prix des matières premières (construction, création, décors, nourriture) pour une distribution de 2500 friandises
+* prix des matières premières (construction, création, décors, nourriture) pour une distribution de 2 500 friandises
 
 budget de 2000€
 
-Budget total : 8000€
+Budget total : 5 000€
 
 ## Plan de financement
 
 * Prestation prise en charge par le carnaval des 2 rives : 2 500 €
 * Demande de financement à la mairie de Floirac : 2 000 €
+
 * Demande de subvention Fondation de France : 2 000 €
 * Demande de subvention à l'agence régionale de la santé : 1 500 €
