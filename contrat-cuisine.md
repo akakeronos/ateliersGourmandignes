@@ -2,8 +2,8 @@ CONTRAT D’ENGAGEMENT cours de cuisine
 
 Le présent contrat est passé entre
 
-
-|-----------------------|---------------------------------|
+|Productrice              | adhérent.e                        |
+|:-----------------------:|:---------------------------------:|
 |désigné ci-dessous le producteur d’une part,|adhérent de l’association « Gourmandignes », désigné ci-dessous, l’adhérent d’autre part,|
 |Bénédicte Lambert      | xxxxxx                            |
 |Adresse                |Adresse                            |
