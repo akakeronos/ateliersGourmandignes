@@ -147,7 +147,11 @@ vingtaine de pouchées
 
 ## Omelette à la tomate
 
-Pour 6 personnes
+Préparation: 15 min
+cuisson: 6 min
+Nombre: 6 personnes
+
+### Ingrédients
 
 - 3 oeufs
 - 3 cuillère à soupe de lait
@@ -159,9 +163,27 @@ Pour 6 personnes
 - sel, poivre
 - pique en bois
 
+### Préparation
+
+1. Dans un bol, mélangez les oeufs et le lait. Salez, poivrez
+2. Dans une pôele antiadhésive, faites chauffer une cs d'huile d'olive et versez-y la moitié du mélange d'oeufs
+3. Bougez la poêlepour que la préparation couvre tout le fond
+4. Quand le dessus de cette omelette est sec, faites la glisser sur un plat et laissez tiédir
+5. faites cuire une seconde omelette avec le reste de la préparation dans une cs d'huile d'olive
+6. Coupez la tomate en 2, épépinez-les, puis taillez-les en cubes
+7. faits-les revenir 2 min à la casserolle dans le reste d'huile chaude avec l'ail pelé et haché. Salez, poivrez
+8. Sur les 2 omelettes, répartissez la tomate, parsemez de balilic haché, puis roulez-les pour obtenir 2 cyclindres
+9. Tronconnez-les
+10. Sur chaque morceau, déroulez 3 cm d'omelette que vous maintenez en l'air avec une pique en bois.
+11. Parsemez de sésame
+
 ## tortilla à la tapenade
 
-Pour 6 personnes
+Préparation: 15 min
+cuisson: 10 min
+Nombre: 6 personnes
+
+### Ingrédients
 
 - 6 oeufs
 - 2 cs de crème liquide
@@ -169,6 +191,16 @@ Pour 6 personnes
 - 2 cc de tapenade noire
 - 2 cs d'huile d'olive
 - sel, poivre
+
+### Préparation
+
+1. Cassez les oeufs dans une jatte
+2. ajoutez la crême, salez et poivrez
+3. mettez ue poêle anti-adhésive à chauffer avec un filet d'huile d'olive
+4. Faites cuire les oeufs en 2 ou 3 fois, selon la taille de votre poêle, pour obtenir 2 à 3 omelettes
+5. Dans un bol mélangez la brousse et la tapenade, poivrez
+6. Etalez une fine couche de ce mélange sur les crêpes d'omelette puis roulez en serrant délicatement
+7. coupez en tronçons et maintenez avec des piques en bois
 
 ## frittata de courgettes
 
@@ -183,7 +215,11 @@ pour 4 personnes
 
 ## gâteau d'omelettes aux légumes
 
-pour 6 personnes
+Préparation: 20 min
+cuisson: 30 min
+Nombre: 6 personnes
+
+### Ingrédients
 
 - 6 oignons nouveaux émincés
 - 3 cs d'huile d'olive
@@ -194,4 +230,18 @@ pour 6 personnes
 - 3 petites courgettes rapées
 - 1 brin de romarin
 - sel, poivre
--
+
+### Préparation
+
+1. faites fondre les oignons à la poêle pendant 3, 4 min dans une cs d'huile d'olive
+2. Salez, poivrez
+3. Fouttez 4 oeufs avec 3 cs de lait, sel et poivre
+4. versez sur les oignons
+5. Dès que l'omelette est prise, faites la glisser dans un moule à manqué huilé à sa taille
+6. Faites revenir les poivrons pendant 3 min dans une cs d'huile d'olive, avrc 2 gousses d'ail émincées
+7. versez dessus 4 oeufs fouettés avec 3 cs de lait, salez, poivrez. Faites glisser cette omelette sur la première
+8. Faites cuire les courgettes pendant 2 min dans 1 cs d'huile d'olive avec un peu de romarin et de gousses d'ail émincées. Salez, poivrez
+9. versez dessus les oeufs restants, battus, mêlés au lait et assaisonnés
+10. Faites glisser cette omelette sur les autres
+11. Enfournez le moule dans un fourà th. 6 (180°c) pour 15 min
+12. Démoulez et servez froid
