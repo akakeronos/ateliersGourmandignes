@@ -73,7 +73,7 @@ Nombre: 6 personnes
 ### Préparation
 
 1. Lavez les pommes de terre, puis plongez-les dans une casserolles d'eau bouillante salée
-2. 2. comptez 15 min de cuisson et égoutez
+2. comptez 15 min de cuisson et égoutez
 3. Laissez refroidir, puis coupez les en 2 dans le sens de la longueur
 4. lavez et sécher le citron. Râpez le zeste d'une demi-citron au-dessus du bol, ajoutez le persil ciselé, l'huile et les câpres, remuez
 5. Egouttez les tomates séchées à l'huile d'olive
@@ -134,7 +134,7 @@ pour 6 personnes
 
 ## bouchées de thon aux graines d'asie
 
-vingtaine de pouchées
+vingtaine de bouchées
 
 - 300g de thon coupé dans une tranche de 1.5 cm d'épaisseur
 - 1 cs de graine de coriandre
