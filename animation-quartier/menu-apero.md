@@ -2,7 +2,11 @@
 
 ## tartines de faisselle aux herbes
 
-pour 6
+Préparation: 15 min
+temps de repos: 60 min
+Nombre: 6 personnes
+
+### Ingrédients
 
 - faisselle
 - 25cl de crème liquide
@@ -11,9 +15,28 @@ pour 6
 - 1 citron
 - 10cl d'huile d'olive
 
+### Préparation
+
+1. Sortez les faisselles de pots et laissez les s'égouter
+2. Réservez les pots pour la suite de la recette
+3. Lavez et essuyez le citron, rapez finement le zeste, pressez la moitié du jus
+4. Démoulez les fromages dans un saladier, réservez les faisselles
+5. fouettez le fromage pour le lisser, puis incorporer les herbes ciselées, la moitié de l'huile, le zeste, le jus de citron, du sel et du poivre
+6. Fouettez la crême très froide en chantilly et incorporez-la à la préparation
+7. Rectifier l'assaisonnement en sel, poivre et jus de citron
+8. remplissez les faisselles du mélange, gardez les pour accompagner les crudités
+9. Mettez au frais au moins une heure, afin que les faisselles soient très égoutées
+10. Au moment de servir, faites griller le pain, puis arrosez le avec le reste de l'huile. Démoulez les faisselles et tartinez-en les tranches de pain Servez avec une salade de jeunes pousses et des radis coupés en fines rondelles.
+
 ## légumes grillés à la crême de feta
 
-12 bouchées
+Préparation: 10 min
+cuisson: 10 min
+Nombre: 6 personnes
+
+Pour 12 bouchées
+
+### Ingrédients
 
 - tranches de courgettes, poivrons, aubergines
 - 200 g de feta
@@ -22,9 +45,22 @@ pour 6
 - 2 cs d'huile d'olive
 - pique en bois
 
+### Préparation
+
+1. Ecrasez la féta à la fourchette
+2. Dans un grand bol mélangez-la avec le formage, le basilic hâché, l'huile d'olive. Salez si nécessaire, poivrez
+3. Préparez les légumes au four
+4. Laissez refroidir
+5. Mettez une grosse noix de farce au formage sur chacun des légumes grillés, roulez et fermez avec une pique en bois.
+6. Servez frais
+
 ## canapés de pomme de terre
 
-pour 6 personnes
+Préparation: 10 min
+cuisson: 15 min
+Nombre: 6 personnes
+
+### Ingrédients
 
 - 12 petites pommes de terre à chair ferme
 - 24 tomates séchées
@@ -33,6 +69,18 @@ pour 6 personnes
 - 2 cs d'huile d'olive
 - 1 citron
 - 1 cs de persil ciselé
+
+### Préparation
+
+1. Lavez les pommes de terre, puis plongez-les dans une casserolles d'eau bouillante salée
+2. 2. comptez 15 min de cuisson et égoutez
+3. Laissez refroidir, puis coupez les en 2 dans le sens de la longueur
+4. lavez et sécher le citron. Râpez le zeste d'une demi-citron au-dessus du bol, ajoutez le persil ciselé, l'huile et les câpres, remuez
+5. Egouttez les tomates séchées à l'huile d'olive
+6. Pressez le citron. Egoutez le thon, émiettez-le.
+7. Dans un autre bol, mélangez le avec le jus du citron, du sel et du poivre
+8. Mettez une petite cuillère de préparation au thon sur chaque demi pomme de terre, puis parsemez du mélange zeste câpres.
+9. Posez une lamelle de tomate séchée.
 
 ## sashimis de thon, crème de citron
 
