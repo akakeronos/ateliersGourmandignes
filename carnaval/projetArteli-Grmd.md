@@ -1,9 +1,9 @@
 # Déambulation gastronomique augmentée
 
-##  **Création de chars** pour le **Carnaval de Floirac** et le **Carnaval des Deux Rives**
+## **Création de chars** pour le **Carnaval de Floirac** et le **Carnaval des Deux Rives**
 
-![log_arteli](D:\github\ateliersGourmandignes\carnaval\assets\log_arteli.png)
-![logo gourmandignes](D:\github\ateliersGourmandignes\carnaval\assets\logo.png)
+![log_arteli](./assets/log_arteli.png)
+![logo gourmandignes](./assets/logo.png)
 
 En association avec la direction artistique du carnaval des 2 rives, l’association Arteli et Jean-François André, l'association Gourmandignes et Bénédicte Lambert, créatrice culinaire s'unissent pour proposer un **projet de chars consacré à l'alimentation augmentée**.
 
@@ -15,15 +15,15 @@ Le point d'orgue de ce projet consistera à accompagner la déambulation des 2 c
 
 ## Qui sommes-nous ?
 
- **L'association Arteli**, domiciliée sur la commune de Floirac en Gironde, développe des projets innovants et créatifs, en lien avec les arts plastiques, avec comme missions premières de promouvoir l'expression artistique, de fédérer les personnes et de créer du lien entre les structures du territoire.
+**L'association Arteli**, domiciliée sur la commune de Floirac en Gironde, développe des projets innovants et créatifs, en lien avec les arts plastiques, avec comme missions premières de promouvoir l'expression artistique, de fédérer les personnes et de créer du lien entre les structures du territoire.
 
- Notre association développe des projets artistiques, participatifs et collaboratifs sur la commune de Floirac, de Bordeaux et de sa Métropole.  
+Notre association développe des projets artistiques, participatifs et collaboratifs sur la commune de Floirac, de Bordeaux et de sa Métropole.
 
-*Arteli* associe également les habitants de Floirac et de la rive droite sur des projets artistiques participatifs et collaboratifs à *L’Atelier d’Arteli*, lieu de vie situé au 1er étage du bâtiment des anciens *«Bains Douches »* de Floirac. 
+_Arteli_ associe également les habitants de Floirac et de la rive droite sur des projets artistiques participatifs et collaboratifs à _L’Atelier d’Arteli_, lieu de vie situé au 1er étage du bâtiment des anciens _«Bains Douches »_ de Floirac.
 
-Mélanie Ribaillier est directrice artistique de l’association *Arteli*. Elle anime et coordonne les différentes actions d’*Arteli*, dans le respect des missions et objectifs de la structure.
+Mélanie Ribaillier est directrice artistique de l’association _Arteli_. Elle anime et coordonne les différentes actions d’_Arteli_, dans le respect des missions et objectifs de la structure.
 
-![actionArteli](D:\github\ateliersGourmandignes\carnaval\assets\actionArteli.jpg)
+![actionArteli](./assets/actionArteli.jpg)
 
 > Expositions des créations réalisées à L’Atelier d’Arteli.M270 Floirac. Juin 2018
 
@@ -45,25 +45,25 @@ En 2018, L'association Gourmandignes et Bénédicte Lambert ont participé au Ca
 
 ### Organisation
 
-Afin de valoriser les objectifs et les produits de L’AMAP **le char conçu par Arteli** sera créé à partir d’éléments représentant et rappelant les fruits, les légumes, les friandises et les produits naturels déclinés sous toutes leurs formes. Des ateliers sur le goût, sur l’association d’aliments naturels et sur des recettes originales vont être proposés aux élèves des écoles de Floirac par l’association « *Les Gourmandignes* » sur la période précédant le carnaval. Le char fera échos de manière artistique et ludique à ces ateliers.  
+Afin de valoriser les objectifs et les produits de L’AMAP **le char conçu par Arteli** sera créé à partir d’éléments représentant et rappelant les fruits, les légumes, les friandises et les produits naturels déclinés sous toutes leurs formes. Des ateliers sur le goût, sur l’association d’aliments naturels et sur des recettes originales vont être proposés aux élèves des écoles de Floirac par l’association « _Les Gourmandignes_ » sur la période précédant le carnaval. Le char fera échos de manière artistique et ludique à ces ateliers.
 
-Des costumes seront créés en lien avec le char par une adhérente d’*Arteli* pour les personnes de l’AMAP occupant la structure et distribuant des friandises aux enfants et aux familles lors des défilés.
+Des costumes seront créés en lien avec le char par une adhérente d’_Arteli_ pour les personnes de l’AMAP occupant la structure et distribuant des friandises aux enfants et aux familles lors des défilés.
 
-*Arteli* coordonnera la réalisation artistique de la conception du char.  
+_Arteli_ coordonnera la réalisation artistique de la conception du char.
 
-Les adhérent.es d'Arteli (enfants, adolescents et adultes) définiront, avec « *Les Gourmandignes* » les différents éléments constitutifs de la création et seront associés au projet dans les cadres des ateliers de *L’Atelier d’Arteli*. De plus, un stage dédié à la réalisation du char sera proposé aux habitants de la commune sur *L’Atelier* pendant les vacances d’hivers.  
+Les adhérent.es d'Arteli (enfants, adolescents et adultes) définiront, avec « _Les Gourmandignes_ » les différents éléments constitutifs de la création et seront associés au projet dans les cadres des ateliers de _L’Atelier d’Arteli_. De plus, un stage dédié à la réalisation du char sera proposé aux habitants de la commune sur _L’Atelier_ pendant les vacances d’hivers.
 
-**Jean François André**, artiste sculpteur occupant le rez-de chaussé des anciens « Bains Douches » de Floirac s’associera au projet et réalisera des éléments du char en métal, plastique fondu, bois en lien avec sa pratique. Artiste habitué des réalisations monumentales, Jean François André apportera à la création son expérience et son univers artistique.  
+**Jean François André**, artiste sculpteur occupant le rez-de chaussé des anciens « Bains Douches » de Floirac s’associera au projet et réalisera des éléments du char en métal, plastique fondu, bois en lien avec sa pratique. Artiste habitué des réalisations monumentales, Jean François André apportera à la création son expérience et son univers artistique.
 
-L'association Arteli ayant pour objectif de fédérer les personnes, de favoriser l’accès à la culture pour tous et de valoriser les individus nous souhaitons associer trois écoles issues des quartiers prioritaires de la commune de Floirac à la réalisation.  
+L'association Arteli ayant pour objectif de fédérer les personnes, de favoriser l’accès à la culture pour tous et de valoriser les individus nous souhaitons associer trois écoles issues des quartiers prioritaires de la commune de Floirac à la réalisation.
 
-Les élèves et les équipes pédagogiques de l’école maternelle Jean Jaurès et élémentaire Jean Jaurès participeront à la réalisation d’éléments du char. Une troisième école située sur les coteaux de la commune participera également à l’action.  
+Les élèves et les équipes pédagogiques de l’école maternelle Jean Jaurès et élémentaire Jean Jaurès participeront à la réalisation d’éléments du char. Une troisième école située sur les coteaux de la commune participera également à l’action.
 
-Mélanie Ribaillier animera avec les enseignants les ateliers sur les écoles. Afin d’alléger le calendrier des interventions nous envisageons la présence de Mélanie Ribaillier sur les temps forts des réalisations (démarrage / finitions) et de confier aux enseignants volontaires les autres phases de création.  
+Mélanie Ribaillier animera avec les enseignants les ateliers sur les écoles. Afin d’alléger le calendrier des interventions nous envisageons la présence de Mélanie Ribaillier sur les temps forts des réalisations (démarrage / finitions) et de confier aux enseignants volontaires les autres phases de création.
 
-Afin d’ouvrir la création à l’ensemble des habitants de la commune, trois ateliers, en accès libre, seront proposés aux floiracais. Les enfants et les familles le souhaitant seront conviés à participer à la réalisation des éléments du char.  
+Afin d’ouvrir la création à l’ensemble des habitants de la commune, trois ateliers, en accès libre, seront proposés aux floiracais. Les enfants et les familles le souhaitant seront conviés à participer à la réalisation des éléments du char.
 
-Un premier atelier sera proposé au *Quartier Génial*. Nous proposerons également une séance en accès libre sur le parvis de la M270. Un troisième atelier sera proposé aux familles du Haut Floirac, très probablement devant *La Maison des Initiatives* (lieu à confirmer).  
+Un premier atelier sera proposé au _Quartier Génial_. Nous proposerons également une séance en accès libre sur le parvis de la M270. Un troisième atelier sera proposé aux familles du Haut Floirac, très probablement devant _La Maison des Initiatives_ (lieu à confirmer).
 
 Les ateliers de conception et de fabrication de friandises se dérouleront au centre social du bas Floirac.
 
@@ -78,13 +78,11 @@ Afin de favoriser la participation active et la capacité à penser et réaliser
 
 ### Articulation entre les partenaires
 
- *Arteli* s’associe à l’Association pour le Maintien d'une Agriculture Paysanne (AMAP) « *Les Gourmandignes* »  de Cenon pour créer, avec les habitants de la commune de Floirac un char.  
+_Arteli_ s’associe à l’Association pour le Maintien d'une Agriculture Paysanne (AMAP) « _Les Gourmandignes_ » de Cenon pour créer, avec les habitants de la commune de Floirac un char.
 
 L’équipe en charge de l’organisation du Carnaval des 2 rives assure la création d'un personnage géant spécifique appelé La Bouffe.
 
-![détailscharbouffe](D:\github\ateliersGourmandignes\carnaval\assets\détailscharbouffe.png)
-
-
+![détailscharbouffe](./assets/détailscharbouffe.png)
 
 Ce char est conçu et construit par l'équipe du Carnaval des 2 rives de Bordeaux et Guillaumit. Il est entièrement financé par le budget du Carnaval des 2 rives.
 
@@ -92,32 +90,32 @@ Il est manipulé par des bénévoles. Avec l’accord de la mairie de Floirac, c
 
 L’association Arteli prendra en charge de son côté la réalisation d’un **second char** et la **réalisation des costumes**. Les participants des ateliers de Floirac seront invités à venir participer à la déambulation, ils revêtiront un costume spécifique et reconnaissable, en lien avec le char et les personnages.
 
-###  Carnaval de Floirac
+### Carnaval de Floirac
 
-Le char défilera au Carnaval de Floirac en mars 2019.  
+Le char défilera au Carnaval de Floirac en mars 2019.
 
-Le camion servant de support au char sera alloué pour les besoins du projet à l’association *Arteli* par la Mairie de Floirac, soutenue par Bordeaux Métropole.  
+Le camion servant de support au char sera alloué pour les besoins du projet à l’association _Arteli_ par la Mairie de Floirac, soutenue par Bordeaux Métropole.
 
-Le char servira de plateforme de distribution de friandises réalisées à partir de produits naturels par « *Les Gourmandignes* » lors du carnaval.    
+Le char servira de plateforme de distribution de friandises réalisées à partir de produits naturels par « _Les Gourmandignes_ » lors du carnaval.
 
-### Carnaval des Deux Rives  
+### Carnaval des Deux Rives
 
-Le char pourra, après validation de la Mairie de Floirac et des organisateurs du carnaval être associé au Carnaval des Deux Rives. Il représentera la commune et ses habitants sur le carnaval.  
+Le char pourra, après validation de la Mairie de Floirac et des organisateurs du carnaval être associé au Carnaval des Deux Rives. Il représentera la commune et ses habitants sur le carnaval.
 
-Si l’accord est donné pour faire défiler le char sur le Carnaval des Deux Rives, nous veillerons à créer des passerelles artistiques entre la marionnette géante et le char. De plus, une demande sera faite pour que la marionnette géante soit présente sur le carnaval de Floirac.  
+Si l’accord est donné pour faire défiler le char sur le Carnaval des Deux Rives, nous veillerons à créer des passerelles artistiques entre la marionnette géante et le char. De plus, une demande sera faite pour que la marionnette géante soit présente sur le carnaval de Floirac.
 
 ### Calendrier du projet
 
 Le projet sera réalisé selon le calendrier suivant :
 
-* Juillet / septembre 2018 : définition du projet. Signature de la convention avec le Rectorat. Mise en place des ateliers dans les écoles. 
-* Octobre 2019 : Définition des différents éléments constitutifs du char. Achat du matériel.  	
-* Novembre 2018/ février 2019: 	réalisation des ateliers dans les écoles
-* Novembre 2018 / mars 2019 : réalisation des éléments du char à *L’Atelier d’Arteli*.
-* Janvier à février 2019 : réalisation des ateliers de conception et d'expérimentation culinaires
-* Du 18 au 22 février 2019 (vacances 	d’hivers) : stage dédié à *L’Atelier d’Arteli*
-* Mars : fabrication de firandises pour les parades des 2 carnavals
-* Mars 2019 : Carnaval de Floirac / Carnaval des Deux Rives  	
+- Juillet / septembre 2018 : définition du projet. Signature de la convention avec le Rectorat. Mise en place des ateliers dans les écoles.
+- Octobre 2019 : Définition des différents éléments constitutifs du char. Achat du matériel.
+- Novembre 2018/ février 2019: réalisation des ateliers dans les écoles
+- Novembre 2018 / mars 2019 : réalisation des éléments du char à _L’Atelier d’Arteli_.
+- Janvier à février 2019 : réalisation des ateliers de conception et d'expérimentation culinaires
+- Du 18 au 22 février 2019 (vacances d’hivers) : stage dédié à _L’Atelier d’Arteli_
+- Mars : fabrication de firandises pour les parades des 2 carnavals
+- Mars 2019 : Carnaval de Floirac / Carnaval des Deux Rives
 
 ## Propositions d'ateliers
 
@@ -128,7 +126,7 @@ Le projet sera réalisé selon le calendrier suivant :
 - Groupe Relais habitants
 - Épicerie Solidaire et Solidaire
 
-### Ateliers culinaires : 
+### Ateliers culinaires :
 
 Atelier 1 : design thinking : la gourmandise distribuée
 
@@ -173,7 +171,7 @@ Arteli s'associent à l'association Gourmandignes et Bénédicte Lambert pour pa
 
 - Ville de Floirac
 - Écoles de Floirac
-- Centre social du Bas Floirac
+- Association UNIR; Espace de vie social du Bas Floirac
 - Jean-François André
 - Groupe Relais Habitants
 - Côté Sciences
@@ -185,20 +183,6 @@ Arteli s'associent à l'association Gourmandignes et Bénédicte Lambert pour pa
 
 Des ateliers et une parade spécifique à la ville de Floirac sont prévus en vue d'une continuité du Carnaval des 2 rives. La réutilisation du char et de certains éléments de la parade permettront de créer un contexte festif adapté à la thématique choisie par le Carnaval de FLoirac.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Budget prévisionnel
 
 - Coordination / suivi de projet (global)
@@ -207,13 +191,13 @@ Des ateliers et une parade spécifique à la ville de Floirac sont prévus en vu
 
 - Ateliers création du char dans 3 écoles et dans la ville réalisés par l'association Arteli
 
-  **budget** : 500 € 
+  **budget** : 500 €
 
 - 14 demi journées d'ateliers seront proposées aux deux groupes classe de 25 élèves qui participeront à la conception culinaire. A ce groupe classe seront associés des personnes provenant d'autres contextes (adolescents, personnes âgées, famille, etc.) Lors de cette journée on peut imaginer 4 séquences de 80 min (4 groupes de 12)
   Couvre la conception, la coordination et l'animation de 6 ateliers en vue de concevoir et d'animer la distribution de gourmandises sur un char alimentaire augmenté.
   Achat de matières premières pour les expérimentations lors des ateliers, réalisation des dispositifs de fabrication de recettes, préparation et la distribution des denrées préparées lors de la parade
 
-  **budget** : 1 500 € 
+  **budget** : 1 500 €
 
 Matériel pour la création du char
 
@@ -223,6 +207,6 @@ Budget prévisionnel total : 3 900€
 
 ## Plan de financement
 
-En complément de la subvention demandée à la mairie de Floirac une prestation sera versée à Bénédicte Lambert et l'association Gourmandignes  par l'équipe en charge de l'organisation du carnaval des deux rives, pour prendre en charge les frais liés à la fabrication de friandises et la réalisation des ateliers sur la commune de Floirac.
+En complément de la subvention demandée à la mairie de Floirac une prestation sera versée à Bénédicte Lambert et l'association Gourmandignes par l'équipe en charge de l'organisation du carnaval des deux rives, pour prendre en charge les frais liés à la fabrication de friandises et la réalisation des ateliers sur la commune de Floirac.
 
 Parallèlement d'autres dossiers de demande de financement sont en cours d'étude ou de rédaction afin de permettre la mise à disposition de deux intervenant.es par atelier culinaire et la réalisation de plus de friandises pour les 2 carnavals.
