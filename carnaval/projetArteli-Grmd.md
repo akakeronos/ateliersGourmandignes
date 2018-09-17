@@ -117,7 +117,7 @@ Le projet sera réalisé selon le calendrier suivant :
 - Mars : fabrication de firandises pour les parades des 2 carnavals
 - Mars 2019 : Carnaval de Floirac / Carnaval des Deux Rives
 
-## Propositions d'ateliers
+## Propositions d'ateliers culinaires (Goumandignes)
 
 ### Publics
 
@@ -167,18 +167,17 @@ Pendant cet atelier d'une journée les participant.es sont invitées à concevoi
 
 ## Partenaires pressentis
 
-Arteli s'associent à l'association Gourmandignes et Bénédicte Lambert pour participer à l'organisation des 2 carnavals en lien avec diverses structures locales pour proposer sur leurs territoires des ateliers en lien avec l'objet du projet.
+Arteli s'associe à l'association Gourmandignes et Bénédicte Lambert pour participer à l'organisation des 2 carnavals en lien avec diverses structures locales pour proposer sur leurs territoires des ateliers en lien avec l'objet du projet.
 
 - Ville de Floirac
-- Écoles de Floirac
+- Écoles maternelles et élémentaires de Floirac
 - Association UNIR; Espace de vie social du Bas Floirac
 - Jean-François André
 - Groupe Relais Habitants
 - Côté Sciences
 - Épicerie Sociale et Solidaire
-- Conseil des sages
 - Quartier Génial
-- Ehpad
+- Résidence Pour Personnes Agées La Pastourelle de Floirac
 - Jardins des cheminots
 
 Des ateliers et une parade spécifique à la ville de Floirac sont prévus en vue d'une continuité du Carnaval des 2 rives. La réutilisation du char et de certains éléments de la parade permettront de créer un contexte festif adapté à la thématique choisie par le Carnaval de FLoirac.
@@ -189,7 +188,7 @@ Des ateliers et une parade spécifique à la ville de Floirac sont prévus en vu
 
   **budget** : 400 €
 
-- Ateliers création du char dans 3 écoles et dans la ville réalisés par l'association Arteli
+- Ateliers de création du char dans 3 écoles et réalisation de 3 ateliers en accès libres sur la commune réalisés par l'association Arteli
 
   **budget** : 500 €
 
