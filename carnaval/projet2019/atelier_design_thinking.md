@@ -13,19 +13,23 @@
 
 ## dispositifs
 
-* séquence 1 : présentation du projet par les participant.es
+* **séquence 1** : ice-breaker : dégustation à l'aveugle et expression libre tous les bonbons que l'on connaît (des bonbons locaux, l'imaginaire carnaval) 30 min
 
-1. Les participant.es disposent de cartes sur lesquelles sont inscrites tous les ingrédients du projet et par équipe ils doivent reconstituer le contenu du projet. 10 min
-2. restitution par équipe 10 min
+* **séquence 2** : présentation du projet par les participant.es
 
-* séquence 2 : 6 équipes de 8/10 personnes et un ou une animateur.trice imaginent un design de friandises et un système de distribution.
+1. Les participant.es disposent de cartes sur lesquelles sont inscrites tous les ingrédients du projet et par équipe ils doivent reconstituer le contenu du projet. 20 min
+2. restitution par équipe 20 min
 
-Chaque équipe rédige une fiche technique contenant le nom de la friandise, la forme imaginée, la taille, le goût et le dispositif de distribution (forme du papier, nombre de friandises, etc.)
+* **séquence 3** : 6 équipes de 8/10 personnes et un ou une animateur.trice imaginent un design de friandises et un système de distribution.
 
-Ensuite chaque équipe fabrique une maquette de la friandise en taille surdimensionnée avec des matériaux de récup fournis
+Chaque équipe rédige une fiche technique contenant le nom de la friandise, la forme imaginée, la taille, le goût et le dispositif de distribution (forme du papier, nombre de friandises, etc.) 30 min
 
-* séquence 3 : restitution des projets par équipe et vote pour les 3 meilleurs projets avec un radiant (effet wahouh, difficulté, coût)
+Ensuite chaque équipe fabrique une maquette de la friandise en taille surdimensionnée avec des matériaux de récup fournis 40 min
 
+**pause** : 20 min
+
+* **séquence 4** : restitution des projets par équipe et vote pour les 3 meilleurs projets avec un radiant (effet wahouh, difficulté, coût)
+40 min
 Les 3 projets retenus sont modélisés en 3D et imprimés avec une imprimante 3D pour le prochain atelier
 
 ## animation
@@ -35,7 +39,7 @@ Les 3 projets retenus sont modélisés en 3D et imprimés avec une imprimante 3D
 * 1 animateur.trice centre social
 * 1 parent
 
-## matériel 
+## matériel
 
 * cartes plastifiées pour les différents ingrédients du projet
 * fiche A4 plastifiée pour la rédaction de  la fiche technique
