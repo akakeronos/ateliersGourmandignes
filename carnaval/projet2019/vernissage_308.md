@@ -1,6 +1,6 @@
 # vernissage carnaval maison de l'architecture
 
-**date** : 14 février 2019 à 18h
+**date** : 12 février 2019 à 18h
 
 ## Thématiques
 

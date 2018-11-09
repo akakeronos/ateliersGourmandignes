@@ -13,8 +13,11 @@
 
 ## dispositifs
 
-* **séquence 1** : ice-breaker : dégustation à l'aveugle et expression libre tous les bonbons que l'on connaît (des bonbons locaux, l'imaginaire carnaval) 30 min
-
+* **séquence 1** : ice-breaker : jeu sur les 5 sens
+    * chou-fleur au chocolat
+    * élément sucré rouge ou vert : même goût -> ressenti différent
+    * même élément : présenté comme formage ou comme odeur de pieds
+* 
 * **séquence 2** : présentation du projet par les participant.es
 
 1. Les participant.es disposent de cartes sur lesquelles sont inscrites tous les ingrédients du projet et par équipe ils doivent reconstituer le contenu du projet. 20 min
