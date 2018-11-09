@@ -12,7 +12,7 @@
     * 1/2 journée au centre social de Floirac
 * mardi 12 février 2019 : réalisation des systèmes de distribution
     * 1/2 journée au centre social de Floirac (en partenariat avec les petits débrouillards ?)
-* jeudi 14 février 2019 : versnissage 308
+* mardi 12 février 2019 : vernissage 308
 * vendredi et samedi 1er et 2 mars : ateliers de fabrication
     * 1 journée au centre social de Floirac
     * 1 journée au centre social de Lormont
