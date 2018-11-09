@@ -181,3 +181,17 @@ Arteli s'associe à l'association Gourmandignes et Bénédicte Lambert pour part
 - Jardins des cheminots
 
 Des ateliers et une parade spécifique à la ville de Floirac sont prévus en vue d'une continuité du Carnaval des 2 rives. La réutilisation du char et de certains éléments de la parade permettront de créer un contexte festif adapté à la thématique choisie par le Carnaval de FLoirac.
+
+### Collaboration avec Marie Sporny Yakité / Chef de projet artistique du RAFU
+
+Après avoir présenté les détails du projet et les croquis du char Marie propose que les artistes associés au RAFU réalisent un « bar à gourmandises ».
+Ce dernier viendra se placer à l’arrière du char et sera réalisé par l’assemblage de bouteilles en plastiques récupérées. Elles seront placées à l’envers et serviront de contenant pour des friandises.
+La distribution des friandises sera réalisée par l’ouverture et la fermeture des bouteilles (bouchons).
+Le « bar à gourmandises » sera créé dans le code coloré du char et viendra se placer sur les planches en bois du camion.
+Les friandises seront créées à partir de produits naturels et biologiques : des « chouchous » réalisés en graines de courges et de tournesols caramélisées par du sucre de betterave.
+
+**actions** :
+
+- Marie de rapprochera de Bénédicte pour la partie alimentaire et sanitaire de cette action.
+- Définir les quantités de friandises produites et la question de la distribution en toute sécurité.
+- Donner les mesures exactes de la planche de bois située à l’arrière du camion à Mairie.
