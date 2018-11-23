@@ -29,3 +29,4 @@
 ### contenu des ateliers
 
 * [atelier de design thinking](atelier_design_thinking.md)
+* [atelier sensibilisation au sucre](atelier_sensibilisation_sucre.md)
