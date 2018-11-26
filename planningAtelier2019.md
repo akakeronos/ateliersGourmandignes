@@ -1,4 +1,4 @@
-# planning ateliergourmandignes 2019
+# planning atelier gourmandignes 2019
 
 | **Date carnaval**  | **Intervenant.e** | **Horaire** | **lieu**    | **Date atelier cuisine** | **Intervenant.e** | **horaire** | **lieu**             |
 | ------------------ | ----------------- | ----------- | ----------- | ------------------------ | ----------------- | ----------- | -------------------- |
