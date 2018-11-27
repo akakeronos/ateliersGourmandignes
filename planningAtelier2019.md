@@ -12,7 +12,7 @@
 | mardi 5 mars       | Bénédicte         | 14h-17h     | EVS Floirac | vendredi 8 mars          | Stéphanie         | 18h30-22h30 | Centre Didée Lormont |
 | samedi 9 mars      | Bénédicte         | 9h-18h      | EVS Floirac | -                        | -                 |
 | -                  | -                 | -           | -           | vendredi 5 avril         | Bénédicte         | 18h30-22h30 | Centre Didée Lormont |
-| -                  | -                 | -           | -           | vendredi 22 mars         | Bénédicte         | 18h30-22h30 | Centre Didée Lormont |
+| -                  | -                 | -           | -           | vendredi 22 avril        | Bénédicte         | 18h30-22h30 | Centre Didée Lormont |
 | -                  | -                 | -           | -           | vendredi 3 mai           | Bénédicte         | 18h30-22h30 | Centre Didée Lormont |
 | -                  | -                 | -           | -           | vendredi  7 mai          | Bénédicte         | 18h30-22h30 | Centre Didée Lormont |
 | -                  | -                 | -           | -           | vendredi 24 mai          | Bénédicte         | 18h30-22h30 | Centre Didée Lormont |
