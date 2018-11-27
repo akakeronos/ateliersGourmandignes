@@ -14,7 +14,7 @@
 | -                  | -                 | -           | -           | vendredi 5 avril         | Bénédicte         | 18h30-22h30 | Centre Didée Lormont |
 | -                  | -                 | -           | -           | vendredi 22 mars         | Bénédicte         | 18h30-22h30 | Centre Didée Lormont |
 | -                  | -                 | -           | -           | vendredi 3 mai           | Bénédicte         | 18h30-22h30 | Centre Didée Lormont |
-| -                  | -                 | -           | -           | vendredi  7 mai          | Bénédicte         | 18h30-22h30 | Centre Didée Lormont |
+| -                  | -                 | -           | -           | vendredi 17 mai          | Bénédicte         | 18h30-22h30 | Centre Didée Lormont |
 | -                  | -                 | -           | -           | vendredi 24 mai          | Bénédicte         | 18h30-22h30 | Centre Didée Lormont |
 | -                  | -                 | -           | -           | vendredi 14 juin         | Bénédicte         | 18h30-22h30 | Centre Didée Lormont |
 | -                  | -                 | -           | -           | vendredi 28 juin         | Bénédicte         | 18h30-22h30 | Centre Didée Lormont |
