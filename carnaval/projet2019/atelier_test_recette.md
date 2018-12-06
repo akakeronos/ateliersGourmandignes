@@ -1,10 +1,10 @@
-# Atelier sensibilisation au sucre
+# Atelier test recettes
 
-**objectifs** : faire réflechir sur les modes de consommation de sucre, les alternatives
+**objectifs** : Tester les recettes imaginées
 
 **lieu** : espace de vie social du bas Lormont
 
-**durée** : 3 heures
+**durée** : 6 heures
 
 **publics**:
 * 2 classes de l'école Pierre et Marie Curie de Floirac
@@ -13,28 +13,46 @@
 
 ## dispositifs
 
-* **séquence 1** : ice-breaker : dégustation à l'aveugle par 2
-    * faire gôuter des aliments et proposer aux participant.es d'évaluer sur une échelle de 1 à 10 le niveau de sucre, reconnaître des ingrédients, apprécier le goîut global.  
-    * mise en commun du résultat
-        * classement des éléments dégustés
-        * discussion autour de la sensation de sucre
-  
-* **atelier 1** : restitution de l'enquête menée par les enfants avec leurs instits en amont (comment sont fabriqués les sucres, quels sont les sucres naturels, industriels ; que fait le sucre sur le corps et le cerveau, quels sont les risques : essayer de faire un jeu sur le sucre).
+6 équipes produisent 24 propositions à partir de 4 formes
 
-classer des aliments sucrés et faire une restitution
+4 ateliers culinaires de 30 min
 
-* **atelier 3** : faire construire des montagnes de sucre avec les éléments familiers de leur alimentation
-combien de sucre consommé dans une journée type  ? Travail en amont avec openfoodfacts ?
+* **séquence 1** : ice-breaker :  
+   
+* **atelier 1** : cuir de fruit à agrémenter
+
+* pour quelle proposition ?
+* Quelles difficultés ?
+* Temps de réalisation
+* Possibilité d'emballage
+
+à partir d'une base de cuir de fruit les enfants peuvent décorer et agrémenter pour produire des friandises fruitées
+
+* **atelier 2** : bonbons à la gélatine naturelle
+
+à partir de la forme de moule retenue tester les ingrédients et les colorants pour identifier la meilleure recette
+
+* variante sur les sucres
+* travail du colorant
+* mise en forme
+* préparation de ce qui va être cuit
+* cuisson de l'aga-agar
 
 **pause** : 20 min
 
-* **atelier 4** : les alternatives au sucre
+* **atelier 3** : mini energy balls
 
-les aliments naturels, les aliments au goût sucré
+* découpe
+* pétrissage
+  
 
-* **atelier 5** : échanges autour des pratiques alimentaires. Défi : comment manger moins de sucre chaque jour ?
+* **atelier 4** : farine de riz gluant
 
-On pèse le sucre relevé lors de la séquence précédente collectivement et le défi consiste à identifier comment diminuer de moitié la quantité de sucre sur une semaine type au moment du carnaval. Identifier les sources de sucre.
+* **atelier 5** : dégustation
+
+* **atelier 6 choix des recettes** : 
+
+* trouver une forme de vote
 
 ## animation
 
@@ -45,8 +63,9 @@ On pèse le sucre relevé lors de la séquence précédente collectivement et le
 
 ## matériel
 
-* sucres en morceaux
-* cartes plastifiées les aliments sucrés
-* aliments classiques de la journée
-* cluedo du sucre
-* film : sugarland
+* agar agar
+* cuir de fruits
+* colorants
+* légumes
+* fruits
+* sucres

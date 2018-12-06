@@ -2,9 +2,9 @@
 
 | **Date carnaval**  | **Intervenant.e** | **Horaire** | **lieu**    | **Date atelier cuisine** | **Intervenant.e** | **horaire** | **lieu**             |
 | ------------------ | ----------------- | ----------- | ----------- | ------------------------ | ----------------- | ----------- | -------------------- |
-| mardi 15 janvier   | Bénédicte         | 9h-13h      | EVS Floirac | vendredi 18 janvier      | Stéphanie(?)      | 18h30-230   | Centre Didée Lormont |
-| mardi 22 janvier   | Bénédicte         | 9h-13h      | EVS Floirac | -                        | -                 | -           |
+| mardi 15 janvier   | Bénédicte         | 9h-13h      | EVS Floirac | vendredi 18 janvier      | Bénédicte         | 18h30-230   | Centre Didée Lormont |
 | vendredi 1 février | Bénédicte         | 9h-13h      | EVS Floirac | vendredi 1évrier         | Bénédicte         | 18h30-22h30 | Centre Didée Lormont |
+| mardi 5 février    | Bénédicte         | 9h-13h      | EVS Floirac | -                        | -                 | -           |
 | Mardi 12 février   | Bénédicte         | 9h-13h      | EVS Floirac | Mardi 12 février         | Bénédicte         | 18h-23h     | 308 architecture     |
 | -                  | -                 | -           | -           | vendredi 15 fév          | Stéphanie(?)      | 18h30-22h30 | Centre Didée Lormont |
 | vendredi 1 mars    | Bénédicte         | 9h-13h      | EVS Floirac | -                        | -                 | -           |
