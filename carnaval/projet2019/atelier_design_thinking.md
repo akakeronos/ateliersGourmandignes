@@ -17,10 +17,11 @@
 temps d'accueil : 10 min
 
 - **séquence 1** : ice-breaker : jeu sur les 5 sens 10 min
+
   - chou-fleur au chocolat
   - élément sucré rouge ou vert : même goût -> ressenti différent
   - même élément : présenté comme formage ou comme odeur de pieds
--
+
 - **séquence 2** : présentation du projet par les participant.es
 
 1. Les participant.es disposent de cartes sur lesquelles sont inscrites tous les ingrédients du projet et par équipe ils doivent reconstituer le contenu du projet. 15/20 min
@@ -87,7 +88,7 @@ Ensuite chaque équipe fabrique une maquette de la friandise en taille surdimens
 
 **pause** : 20 min
 
-- **séquence 4** : restitution des projets par équipe et vote pour les 3 meilleurs projets avec un radiant (effet wahouh, difficulté, coût)
+- **séquence 4** : restitution des projets par équipe et vote pour les 3 meilleurs projets avec un radiant (effet wahouh, difficulté, coût, dispositif de distribution)
   40 min
 
 Les 3 projets retenus sont modélisés en 3D et imprimés avec une imprimante 3D pour le prochain atelier
