@@ -14,23 +14,32 @@
 
 ## dispositifs
 
-5 équipes produisent 25 propositions à partir de 4 formes ; hache, couronne, boule et lune:
+5 équipes produisent 25 propositions à partir de 4 formes ; hache, couronne, boule
+6 recettes : 6 groupes
 
-- hache : gélatine
-- couronne : pâte de fruit
-- boule : énergy balls
-- lune : ?
+- hache : pâte de fruit ou cuir de fruit
+- couronne : cuir de fruit (à plat ou en volume) gelée agar
+- boule : énergy balls (différente) ou riz gluant (pruneaux)
 
 4 ateliers culinaires de 40 min
 
-- **séquence 1** : ice-breaker :
+plaques de cuisson : pâte de fruits
 
-- **atelier 1** : cuire de fruit à agrémenter
+- boules de riz : faire la pâte, les former et les mettre dans l'eau bouillante, tremper dans un sucre
+- hâche cuir de fruit : découpe et déco. Emporte-pièce et assembler avec une forme
+- couronne cuir de fruit : découpe et déco. Emporte-pièce et assembler avec une forme
+- énergy balls : écraser des fruits secs, faire la pâte et modeler
+- couronnes en 3D : chauffer la pomme, ajouter l'agar-agar, colorant. Mettre dans les moules et attendre que cela refroidisse. Test d'emballage
+- pâte de fruit : découpe et déco. Emporte-pièce et assembler avec une forme
 
-- pour quelle proposition ?
-- Quelles difficultés ?
-- Temps de réalisation
-- Possibilité d'emballage
+* **séquence 1** : ice-breaker :
+
+* **atelier 1** : cuire de fruit à agrémenter
+
+* pour quelle proposition ?
+* Quelles difficultés ?
+* Temps de réalisation
+* Possibilité d'emballage
 
 à partir d'une base de cuir de fruit les enfants peuvent décorer et agrémenter pour produire des friandises fruitées
 
