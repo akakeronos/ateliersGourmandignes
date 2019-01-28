@@ -2,7 +2,7 @@
 
 | **Date carnaval**  | **Intervenant.e** | **Horaire** | **lieu**    | **Date atelier cuisine**                   | **Intervenant.e** | **horaire** | **lieu**             |
 | ------------------ | ----------------- | ----------- | ----------- | ------------------------------------------ | ----------------- | ----------- | -------------------- |
-| mardi 15 janvier   | Bénédicte         | 9h-13h      | EVS Floirac | vendredi 11 janvier                        | Bénédicte         | 18h30-230   | Centre Didée Lormont |
+| mardi 15 janvier   | Bénédicte         | 9h-13h      | EVS Floirac | vendredi 11 janvier: detox et plaisir      | Bénédicte         | 18h30-230   | Centre Didée Lormont |
 | vendredi 1 février | Bénédicte         | 9h-13h      | EVS Floirac | vendredi 8 février: patate                 | Bénédicte         | 18h30-22h30 | Centre Didée Lormont |
 | mardi 5 février    | Bénédicte         | 9h-13h      | EVS Floirac | -                                          | -                 | -           |
 | Mardi 12 février   | Bénédicte         | 9h-13h      | EVS Floirac | Mardi 12 février : dispositif distribution | Bénédicte         | 18h-23h     | 308 architecture     |
