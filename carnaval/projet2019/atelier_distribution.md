@@ -14,63 +14,46 @@
 
 ## dispositifs
 
-- **13H30-13h45 : séquence 1** : ice-breaker :
+3 groupes : 16 enftns par groupe
 
-durée : 15 min
+9h accueil annonce du programme
 
-- **13H45-15h30 : séquence 2** : ateliers de production
+- **9h15-9h45 atelier 1** : dessin des costumes
+  accesssoire tablier
+  image de tablier imprimées
+  blanc bordeaux et violet
+  lettres bariolées
+  en lien avec le thème sucreries
+  fiche critère à faire
+  ultra simple à réaliser
+  sur le thème
+  accessoire pour porter la catapulte
+  accesssoire pour faire du bruit : acccessoire cuisine
+  légende du dessin
+  coût (faire des recherches sur Internet)
 
-  - amélioration et finalisation des recettes
-  - conception des dispositifs de distribution
-  - conception des déguisements
-    durée : 100 min
+* **9H45-10h30 : atelier 2** :catapultes
+  fabriquer la catapulte à partir de la fiche https://www.latoilescoute.net/fabriquer-catapulte
+  imprimer la fiche en pdf
+  cible à imprimer
 
-- **14h-15h00 atelier 1** : cuisine
-  A partir des 2 recettes sélectionnées, afinner les prix, les ingrédients et les formes
+* **10H30-10h45 : récré goûter** : ice-breaker : dégustation de la friandise sélectionnée
 
-2 équipes en cuisine : à partir des fiches recettes, affiner les ingrédients et le temps nécessaire afin d'obtenir la préparation définitive
+* **10h45-11h15 : atelier 3** : chanson
 
-- brigabon gélatine
-- brigabon energy ball
-
-matériels :
-
-- 2 balances
-- 3 culs de poule
-- 4 planches à découper
-- 4 couteaux
-- 1 écumoire
-- 2 casserolles
-
-durée : 60 min (2 ateliers de 30min)
-
-- **14H00-14h30 : atelier 2** : dispositifs de distribution
-
-En groupe de 8 puis en binôme rédiger une fiche imaginant un dispositif de distribution pour les friandises
-
-Matériau, taille, modalité de distribution, coût
-
-! matériel : 4 fiches par groupe pour décrire le dispositif imaginé
-
-- mise en commun du résultat
+  la chanson des brigands
+  imprimer paroles
+  apprendre les paroles
+  enregistrer
 
 durée : 30 min
 
-- **14h00-14h30 : atelier 3** : déguisements
+11h15-11h30 bilan de la matinée annonce prochain atelier
 
-Individuellement ou par 2 dessiner des éléments de décoration sur un patron de tablier et un chapeau de cuisinier
+restitution :
 
-Remplir une fiche pour décrire les éléments de décoration ajoutés
-
-durée : 30 min
-
-- **15h00-15h20 : pause**.
-
-durée : 20 min
-
-- **15h20-16h : séquence 3** : restitution :
-  - votes sur les déguisements
-  - vote sur les dispositifs de distribution
+- votes sur les déguisements
+- vote sur les dispositifs de distribution
 - présentation des recettes retenues
 
 durée : 40 min
@@ -79,13 +62,14 @@ durée : 40 min
 
 - 2 enseignant.es
 - 2 animateur.trice.s gourmandignes
-- 1 animateur.trice centre social
-- 1 parent
+- 2 parents
 
 ## matériel
 
 - cartons
 - 20 fiches pour décrire les dispositifs de distribution
 - 20 fiches pour décrire la customisation des déguisements
-- ingrédients pour les recettes
-- ingrédients pour cuisiner
+- 500 bâtonnets
+- 2 tubes de colle
+- élastiques
+- 50 bouchons de bouteille
