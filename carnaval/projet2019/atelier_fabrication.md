@@ -32,3 +32,6 @@ Déposez la pochette garnie dans les seaux de conditionnement mis à disposition
 
 Tenez un comptage du nombre de pochette réalisée au fur et à mesure
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyMzk3NjU2OThdfQ==
+-->
