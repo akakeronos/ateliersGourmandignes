@@ -78,3 +78,6 @@ Accueil dans la classe 9h
 De 9h 15 à 10h15 : atelier préparation de la parade
 
 De 10h30 à 11h45 restitution collective
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTQ3MjExNjk0XX0=
+-->
